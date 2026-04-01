@@ -1,0 +1,945 @@
+﻿state,district,mukim,gaznum,reserve,add,remove,gaz_year,gaz_month,gaz_day,gazeff_year,gazeff_month,gazeff_day,gaz_notes
+Selangor,Petaling,Pekan Baru Subang,29,Sungai Buloh,,4.4,2002,1,17,2002,1,17,Gazette Plan: PW 1341. 
+Selangor,Sabak Bernam,Sungai Panjang,30,Sungai Karang,,24.3,2002,1,17,2002,1,17,Gazette Plan: PW 1340. 
+Terengganu,Dungun,Besul,67,Sungai Paka,,3339,2002,2,14,2000,11,15,Gazette Plan: PW 260. Daerah not mentioned. Filled in based on external source. Mukim renamed from Besol to Besul.
+Pahang,NOT STATED,NOT STATED,182,X - NOT STATED,34.39,,2002,2,28,2002,2,28,Gazette Plan: PW 3477. Forest reserve NOT STATED
+Pahang,Lipis,NOT STATED,183,Benchah Tambahan,322,,2002,2,28,2002,2,28,Gazette Plan: PW 3538. 
+Negeri Sembilan,Seremban,Seremban,122,Gallah,,40.54,2002,3,14,2002,3,14,Gazette Plan: PW 1708. 
+Negeri Sembilan,Seremban,Labu,121,Gallah,,129.7413,2002,3,14,2002,3,14,Gazette Plan: PW 1707. 
+Terengganu,Setiu,Hulu Nerus,198,Bukit Berok,232.4,,2002,4,25,2001,4,4,Gazette Plan: PA 11056912. Excision of 232.4 ha across two daerah mentioned - Setiu & Hulu Terengganu. I assign 116.2 ha to each daerah
+Terengganu,Hulu Terengganu,Hulu Telemung,198,Bukit Berok,116.2,,2002,4,25,2001,4,4,Gazette Plan: PA 11056912. Excision of 232.4 ha across two daerah mentioned - Setiu & Hulu Terengganu. I assign 116.2 ha to each daerah. Mukim renamed from Hulu Telemong to Hulu Telemung (more recent spelling).
+Perak,Batang Padang,Batang Padang,286,Bukit Tapah,,97.079,2002,4,25,2002,4,25,"Gazette Plan: PW 1503, 1504, 1505, 1506, 1507. "
+Pahang,Kuantan,Sungai Karang,366,Balok,,126,2002,5,9,2002,5,9,Gazette Plan: PW 3524. 
+Kelantan,Gua Musang,Renok,508,Terah,,100.368,2002,6,6,2002,6,6,Gazette Plan: PW 759. 
+Perak,Hulu Perak,Lenggong,418,Bintang Hijau,,202.6,2002,6,6,2002,6,6,Gazette Plan: PW 1366. 
+Selangor,Gombak,Rawang,1008,Kanching,,1.214,2002,7,4,2002,7,4,Gazette Plan: PW 1344. 
+Pahang,Kuantan,Kuala Kuantan,562,Bukit Galing,,19.47,2002,7,18,2002,7,18,Gazette Plan: PA 86269. 
+Pahang,Raub,Batu Talam,563,Batu Talam,,213.6,2002,7,18,2002,7,18,Gazette Plan: PW 3586. 
+Selangor,Gombak,Ulu Klang,1149,Tadahan Air Ampang,,9.712,2002,8,1,2002,8,1,Gazette Plan: PW 1346. 
+Selangor,Petaling,Sungai Buloh,1148,Sungai Buloh,,12.3,2002,8,1,2002,8,1,Gazette Plan: PW 1347. 
+Selangor,Kuala Selangor,"Ijuk, Batang Berjuntai",1147,Bukit Badong,,466.29,2002,8,1,2002,8,1,Gazette Plan: PW 1345. 
+Kedah,Yan,Singkir,312,Gunung Jerai,,40.49,2002,9,12,2001,10,10,Gazette Plan: PW 2065. 
+Perak,"Larut, Matang, dan Selama",Batu Kurau,989,Pondok Tanjung,,1416.4,2002,10,24,2002,10,24,"Gazette Plan: PW 1529. Daerah changed to Larut, Matang dan Selama (more recent designation)"
+Perak,Batang Padang,Batang Padang,995,Bukit Tapah,,96.56,2002,11,7,2002,11,7,"Gazette Plan: PW 1510, 1511, 1512. "
+Negeri Sembilan,Seremban,Seremban,699,Setul,,80.9371,2002,11,21,2002,11,21,Gazette Plan: PW 1770. 
+Perak,Kerian,Beriah,1191,Pondok Tanjung,,251.8,2002,12,19,2002,12,19,Gazette Plan: PW 1445. 
+Kedah,Pendang,Padang Peliang,25,Bukit Perak,,32.48,2003,1,16,1999,7,28,Gazette Plan: PW 2165. 
+Negeri Sembilan,Kuala Pilah,Ulu Jempol,20,Pelangai,,3.687,2003,1,30,2003,1,30,Gazette Plan: PA 35817. Corrected to 3.687 ha in Gazette #451 (2003)
+Negeri Sembilan,Seremban,Setul,22,Gallah,,25,2003,1,30,2003,1,30,Gazette Plan: PW 1757. Renamed Mukim from Setu to Setul (more recent spelling)
+Negeri Sembilan,Tampin,Gemas,21,Gemas Selatan,,404.686,2003,1,30,2003,1,30,Gazette Plan: PW 1766. 
+Perak,Batang Padang,Chenderiang,78,Bujang Melaka,,83.689,2003,2,13,2003,2,13,Gazette Plan: PW 1514. 
+Selangor,Gombak,Rawang,284,Rawang,,25.722,2003,3,13,2003,3,13,Gazette Plan: PW 1350. 
+Selangor,Sabak Bernam,Sungai Panjang,285,Sungai Karang,,347.02,2003,3,13,2003,3,13,Gazette Plan: PW 1351. 
+Terengganu,Setiu,NOT STATED,162,Bukit Berok,,464.8,2003,3,27,2002,10,2,Gazette Plan: PA 11056912. Daerah not mentioned. Filled in based on external source.
+Johor,Muar,Tangkak,833,Gunung Ledang,,4.8,2003,4,10,2003,4,10,Gazette Plan: PW 2288. I renamed from Gunong to Gunung (more recent spelling)
+Johor,Johor Bahru,Tanjung Kupang,832,Sungei Pulai,,180.09,2003,4,10,2003,4,10,Gazette Plan: PW 2239. I renamed from Sungai to Sungei (more recent spelling)
+Johor,Mersing,Tenglu,831,Gunung Arong,,1000,2003,4,10,2003,4,10,Gazette Plan: PW 2291. I renamed from Gunong to Gunung (more recent spelling)
+Johor,Mersing,Teriang,1077,Gunung Arong Tambahan ,1052.18,,2003,5,8,2003,5,8,Gazette Plan: PW 2324. I renamed from Gunong to Gunung (more recent spelling)
+Negeri Sembilan,Jelebu,Pertang,360,Triang,,688.0351,2003,6,5,2003,6,5,Gazette Plan: PW 1820. 
+Pulau Pinang,Barat Daya,1,156,Pantai Acheh,,1270.31,2003,7,3,2003,4,10,Gazette Plan: PW 737. 
+Pulau Pinang,Seberang Perai Selatan,11,178,Byram,,29.06,2003,7,17,2003,7,17,Gazette Plan: PW 521. Revoked original gazette on 7 March 1968
+Negeri Sembilan,Seremban,Setul,533,Gallah,,36.031,2003,7,31,2003,7,31,Gazette Plan: PW 1773. 
+Pahang,Kuantan,Kuala Kuantan,761,Beserah,,2.63,2003,9,11,2003,9,11,Gazette Plan: PA 90928. 
+Negeri Sembilan,Jelebu,Kenaboi,579,Kenaboi,,12.14,2003,9,11,2003,9,11,Gazette Plan: PW 1890. 
+Negeri Sembilan,Seremban,Setul,578,Setul,,121.4,2003,9,11,2003,9,11,Gazette Plan: PW 1891. Renamed Mukim from Setu to Setul (more recent spelling)
+Negeri Sembilan,Kuala Pilah,Parit Tinggi,580,Pelangai,,242.811,2003,9,11,2003,9,11,Gazette Plan: PW 1800. 
+Negeri Sembilan,Jempol,Jelai,577,Jeram Padang Selatan,,263,2003,9,11,2003,9,11,Gazette Plan: PW 1836. 
+Johor,Johor Bahru,Tanjung Kupang,2340,Sungei Pulai,,4.91,2003,10,9,2003,10,9,Gazette Plan: PW 2369. I renamed from Sungai to Sungei (more recent spelling)
+Terengganu,Hulu Terengganu,NOT STATED,720,Hulu Terengganu,,9.147,2003,10,9,1999,11,17,Gazette Plan: PW 695. Daerah not mentioned. Filled in based on external source.
+Johor,Muar,Jorak,362,Ayer Hitam Utara Tambahan,493.52,,2004,2,26,2004,2,26,Gazette Plan: PW 2340. 
+Terengganu,Besut,NOT STATED,129,Pelagat,,61.62,2004,2,26,2003,6,18,Gazette Plan: PW 742. Daerah not mentioned. Filled in based on external source.
+Negeri Sembilan,Seremban,Setul,112,Setul,,1213.9,2004,2,26,2004,2,26,"Gazette Plan: PW 1928, 1929, 1930. "
+Terengganu,Dungun,NOT STATED,170,Jengai,,134.76,2004,3,11,2003,4,30,Gazette Plan: PW 738. Daerah not mentioned. Filled in based on external source.
+Negeri Sembilan,Jempol,Jelai,177,Jeram Padang Selatan,,487.3,2004,3,11,2004,3,11,Gazette Plan: PW 1933. 
+Negeri Sembilan,Jempol,Jelai,178,Jelai-Gemas,,582,2004,3,11,2004,3,11,Gazette Plan: PW 1936. 
+Negeri Sembilan,Jempol,Serting Ulu,179,Jeram Padang Utara,,1014,2004,3,11,2004,3,11,Gazette Plan: PW 1935. 
+Perak,Manjung,Lumut,462,Batu Undan,,164.63,2004,5,6,2004,5,6,Gazette Plan: PW 1634. 
+Pahang,Cameron Highlands,Ringlet,437,Ringlet,,38.76,2004,6,17,2004,6,17,Gazette Plan: PW 3687. 
+Perak,Manjung,Lumut,746,Teluk Meroh,229.8,,2004,7,1,2004,7,1,Gazette Plan: PW 1635. I renamed from Muroh to Meroh (most recent spelling)
+Perak,"Larut, Matang, dan Selama",Jebong,747,Jebong,71.6,,2004,7,1,2004,7,1,"Gazette Plan: PW 1636. Daerah changed to Larut, Matang dan Selama (more recent designation)"
+Perak,Kinta,Kampar,759,Bukit Kinta,,8.2,2004,7,2,2004,7,2,Gazette Plan: PW 1454. 
+Perak,Kuala Kangsar,Senggang,1077,Kledang Saiong,,993.5,2004,7,29,2004,7,29,Gazette Plan: PW 1629. 
+Negeri Sembilan,Tampin,Tampin Tengah,532,Tampin,,0.8058,2004,8,12,2004,8,12,Gazette Plan: PW 1951. 
+Perak,Kuala Kangsar,Senggang,1092,Bubu,,18.46,2004,8,12,2004,8,12,Gazette Plan: PW 1631. 
+Negeri Sembilan,Port Dickson,Pasir Panjang,530,Pasir Panjang (Negeri Sembilan),,24.66,2004,8,12,2004,8,12,"Gazette Plan: PW 1947. I added ""Negeri Sembilan"" to differentiate from the Penang reserve"
+Negeri Sembilan,Seremban,Seremban,531,Setul,,61,2004,8,12,2004,8,12,Gazette Plan: PW 1948. 
+Kedah,Yan,Singkir,334,Gunung Jerai,,7.97,2004,8,26,1992,9,2,Gazette Plan: PA 67519. 
+Kelantan,Gua Musang,Pulai,826,Ulu Galas,,62,2004,9,23,2004,1,21,Gazette Plan: PW 410. PT 4819
+Kelantan,Kuala Krai,Kuala Nal,828,Sokor Taku,,230,2004,9,23,2004,4,21,Gazette Plan: PW 830. PT 3636
+Kelantan,Tanah Merah,Sokor,828,Sokor Taku,,303.51,2004,9,23,2004,1,28,Gazette Plan: PW 831. PT 2637
+Kelantan,Gua Musang,Ulu Nenggiri,827,Gunong Stong Selatan,,363.75,2004,9,23,2003,9,3,"Gazette Plan: PW 400. PT 5153, PT 5154"
+Kelantan,Tanah Merah,Sokor,828,Sokor Taku,,406.6,2004,9,23,2003,7,16,Gazette Plan: PW 289. PT 2625
+Perak,Manjung,Pengkalan Baharu,1432,Tanjong Burong Tambahan,,71.9,2004,11,18,2004,11,18,Gazette Plan: PW 1427. Mukim renamed from Pengkalan Bahru to Pengkalan Baharu (more recent spelling)
+Negeri Sembilan,Port Dickson,Si Rusa,800,Sungei Menyala,,4.9803,2004,12,16,2004,12,16,Gazette Plan: PW 1969. 
+Terengganu,Kuala Terengganu,Pulau Redang,906,Pulau Redang,1399.7,,2004,12,30,2004,7,21,Gazette Plan: PW 701. 
+Malacca,Alor Gajah,Sungei Baru Ulu,632,Sungei Udang,,26.3,2004,12,30,2004,12,30,Gazette Plan: PW 435. 
+Perak,Hilir Perak,"Hutan Melintang, Durian Sebatang",1623,Erong,,7649.67,2004,12,30,2004,12,30,Gazette Plan: PW 1627. 
+Perak,Hulu Perak,Lenggong,3,Piah,,939,2005,1,6,2005,1,6,Gazette Plan: PW 1314. 
+Johor,Pontian ,Serkat,137,Sungei Pulai,,721.587,2005,1,20,2005,1,20,Gazette Plan: PW 2498. I renamed from Sungai to Sungei (more recent spelling)
+Negeri Sembilan,Kuala Pilah,Johol,44,Senaling-Inas,,20.69,2005,2,3,2005,2,3,Gazette Plan: PW 1519. 
+Negeri Sembilan,Kuala Pilah,Johol,43,Senaling-Inas,,25.05,2005,2,3,2005,2,3,Gazette Plan: PW 1518. 
+Negeri Sembilan,Jelebu,Kenaboi,45,Kenaboi,,47.36,2005,2,3,2005,2,3,Gazette Plan: PW 1993. 
+Johor,Mersing,Semborong,362,Semberong Tambahan,4634.56,,2005,3,3,2005,3,3,Gazette Plan: PW 2475. Mukim renamed from Semberong to Semborong (more recent spelling)
+Kedah,Pendang,Padang Peliang,117,Bukit Perak,,40.47,2005,3,31,2004,6,30,Gazette Plan: PW 2533. 
+Negeri Sembilan,Seremban,Pantai,265,Pantai,36.086,,2005,6,9,1998,9,10,Gazette Plan: PW 1131. 
+Negeri Sembilan,Seremban,Lenggeng,264,Petai,62.56,,2005,6,9,1998,9,10,Gazette Plan: PW 1136. 
+Selangor,Petaling,Bukit Raja,1278,Bukit Cherakah,,118.7,2005,6,23,2005,6,23,Gazette Plan: PW 1409. 
+Johor,Pontian ,Ayer Baloi,1561,Benut,,44.85,2005,7,7,2005,7,7,Gazette Plan: PW 2674. 
+Selangor,Gombak,Batu,1663,Bukit Lagong,,530.06,2005,8,4,2005,8,4,Gazette Plan: PW 1411. 
+Perak,Kuala Kangsar,Sungai Siput,943,Korbu,,430.1,2005,8,18,2005,8,18,Gazette Plan: PW 1292. 
+Pahang,Kuantan,Sungai Karang,859,Balok,,19.143,2005,9,29,2005,9,29,Gazette Plan: PW 3781. 
+Johor,Mersing,Penyabong,2619,Gunung Arong Tambahan ,,255.8,2005,10,27,2005,10,27,Gazette Plan: PW 2657. I renamed from Gunong to Gunung (more recent spelling)
+Johor,Segamat,Gemas,3213,Jementah,,5153.56,2005,12,22,2005,12,22,"Gazette Plan: PW 2476, 2477, 2478, 2479. "
+Negeri Sembilan,Kuala Pilah,Johol,13,Senaling-Inas,,0.8176,2006,1,19,2006,1,19,Gazette Plan: PW 1991. 
+Perak,Perak Tengah,Belanja,130,Kledang Saiong,,609.1,2006,1,19,2006,1,19,Gazette Plan: PW 1683. 
+Perak,Batang Padang,Bidor,142,Tapah Hills,,97.39,2006,2,2,2006,2,2,Gazette Plan: PW 1707. 
+Pahang,Kuantan,Hulu Lepar,78,Lepar Tambahan,,104.4,2006,2,16,2006,2,16,Gazette Plan: PW 3817. 
+Negeri Sembilan,Tampin,Gemas,16,Gemas Selatan,,2023.43,2006,2,16,2006,2,16,"Gazette Plan: PW 2160, 2161. "
+Kelantan,Jeli,NOT STATED,172,Gunong Basor,809.37,,2006,3,2,2005,5,11,Gazette Plan: PW 890. I renamed from Gunung Basur to Gunong Basor (more recent spelling)
+Kelantan,Jeli,Belimbing,173,Gunong Basor,,809.37,2006,3,2,2005,5,11,Gazette Plan: PW 892. I renamed from Gunung Basur to Gunong Basor (more recent spelling)
+Negeri Sembilan,Tampin,Gemas,32,Gemas Selatan,,28.33,2006,3,30,2006,3,30,Gazette Plan: PW 2176. Corrected to 28.33 in Gazette #207 (2006)
+Johor,Mersing,Semborong,733,Labis Tambahan,3870.5,,2006,4,27,2006,4,27,Gazette Plan: PW 2701. Mukim renamed from Sembrong to Semborong (more recent spelling)
+Negeri Sembilan,Rembau,Chengkau,101,Tampin,,0.4047,2006,5,11,2006,5,11,Gazette Plan: PW 2038. 
+Negeri Sembilan,Rembau,Bongek,101,Tampin,,0.6,2006,5,11,2006,5,11,Gazette Plan: PW 1901. 
+Negeri Sembilan,Port Dickson,Jimah,100,Lukut,,0.8276,2006,5,11,2006,5,11,Gazette Plan: PW 1953. 
+Selangor,Petaling,Petaling,1080,Ayer Itam,,22.26,2006,5,25,2006,5,25,Gazette Plan: PW 1389. 
+Kelantan,Kuala Krai,Kandek,537,Jentiang,,303.5,2006,5,25,2004,7,21,Gazette Plan: PW 388. PT 609
+Pahang,Kuantan,Sungai Karang,630,Balok Tambahan,2.698,,2006,6,22,2006,6,22,Gazette Plan: PW 3514. 
+Negeri Sembilan,Tampin,Tampin Tengah,208,Tampin,,2.6304,2006,6,22,2006,6,22,Gazette Plan: PW 2147. Reserve renamed from Gunong Tampin to Tampin (more recent spelling 2006.351)
+Pahang,Kuantan,Sungai Karang,631,Balok,,2.698,2006,6,22,2006,6,22,Gazette Plan: PW 3609. 
+Perak,Perak Tengah,Layang-layang,773,Parit,,161.8,2006,6,22,2006,6,22,Gazette Plan: PW 1743. 
+Perak,Hulu Perak,Gerik,1284,Bintang Hijau,,0.8365,2006,9,14,2006,9,14,Gazette Plan: PW 1073. 
+Pahang,Kuantan,Sungai Karang,1066,Balok Tambahan,2.808,,2006,10,12,2006,10,12,Gazette Plan: PW 3514. 
+Negeri Sembilan,Kuala Pilah,Langkap,352,Berembun,,0.8191,2006,10,12,2006,10,12,Gazette Plan: PW 2036. 
+Negeri Sembilan,Rembau,Chengkau,351,Tampin,,0.8302,2006,10,12,2006,10,12,Gazette Plan: PW 2126. 
+Pahang,Kuantan,Kuala Kuantan,1067,Bukit Galing,,2.81,2006,10,12,2006,10,12,Gazette Plan: PW 3585. 
+Terengganu,Setiu,NOT STATED,844,Hulu Setiu,,246.32,2006,10,26,2003,11,9,Gazette Plan: PW 775. Daerah not mentioned. Filled in based on external source.
+Pahang,Kuantan,Sungai Karang,1144,Balok Tambahan,3.102,,2006,11,9,2006,11,9,Gazette Plan: PW 3769. 
+Pahang,Pekan,NOT STATED,1145,Pekan Tambahan,31.2,,2006,11,9,2006,11,9,Gazette Plan: PW 3778. 
+Negeri Sembilan,Jelebu,Kuala Klawang,487,Berembun,,1.525,2006,12,7,2006,12,7,Gazette Plan: PW 2142. 
+Perak,Manjung,Lumut,229,Tanjong Hantu,,84.66,2007,2,15,2007,2,15,Gazette Plan: PW 1778. I renamed from Tanjung to Tanjong (most recent spelling)
+Pahang,Kuantan,Kuala Kuantan,409,Bakau ,,2.821,2007,4,12,2007,4,12,Gazette Plan: PA 28806. 
+Terengganu,Hulu Terengganu,Hulu Terengganu,355,Tembat,,121.406,2007,4,12,2007,1,1,Gazette Plan: PW 777. 
+Perak,Kuala Kangsar,Sungai Siput,732,Korbu,,365.8,2007,6,7,2007,6,7,Gazette Plan: PW 1840. 
+Perak,Manjung,Lumut,858,Batu Undan,,70.57,2007,7,5,2007,7,5,Gazette Plan: PW 1773. 
+Kedah,Pendang,Padang Peliang,444,Bukit Perak,,30.351,2007,8,16,2007,3,14,Gazette Plan: PW 3170. 
+Pahang,Bera,Bera,973,Kawasan Pemuliharaan Tasek Bera,31255.09,,2007,8,30,2007,8,30,Gazette Plan: PW 3805. Conservation Area Tasek Bera RAMSAR Convention
+Kedah,Langkawi,Ulu Melaka,494,Gunung Raya,,211.77,2007,8,30,1995,9,27,Gazette Plan: PW 1357. 
+Selangor,Petaling,Bukit Raja,2614,Bukit Cerakah Tambahan,982.8,,2007,9,27,2007,9,27,Gazette Plan: PW 1469. 
+Selangor,Ulu Selangor,Kerling,2616,Bukit Tarek,,965.136,2007,9,27,2007,9,27,Gazette Plan: PW 1470. 
+Kelantan,Gua Musang,Ulu Nenggiri,1218,Sungai Betis,,457.3,2007,10,11,1990,3,21,Gazette Plan: PW 531. 
+Selangor,Ulu Selangor,"Ulu Bernam, Sungai Tinggi",2826,Bukit Belata,,1901.1,2007,10,11,2007,10,11,Gazette Plan: PW 1453. 
+Kelantan,Kuala Krai,Manek Urai,1341,Ulu Temiang,,2023,2007,11,8,2007,9,19,Gazette Plan: PW 6. PT 4767 Converted to Sultanate Land Gazette #1341
+Negeri Sembilan,Kuala Pilah,Johol,872,Senaling-Inas,,133.0487,2007,11,22,2007,11,22,Gazette Plan: Pw 2300. 
+Negeri Sembilan,Jelebu,Triang Ilir,873,Kenaboi,,1214,2007,11,22,2007,11,22,Gazette Plan: PW 1006. 
+Perak,Kuala Kangsar,Senggang,1585,Bubu,,6.68,2007,12,20,2007,12,20,Gazette Plan: PW 1848. 
+Selangor,Kuala Langat,Jugra,2,Jugra Kompok II,,456,2008,1,3,2008,1,3,Gazette Plan: PW 1490. 
+Selangor,Kuala Langat,Jugra,303,Jugra Kompok I,,95.13,2008,1,31,2008,1,31,Gazette Plan: PW 1489. 
+Terengganu,Dungun,"Jerangau, Kumpal",182,Bukit Terendak,3747.5,,2008,2,28,2006,12,11,Gazette Plan: PA 11056904. Excision of7495 ha across two daerah mentioned - Dungun and Marang. I assign 3747.5 ha to each daerah
+Terengganu,Marang,Merchang,182,Bukit Terendak,3747.5,,2008,2,28,2006,12,11,Gazette Plan: PA 11056904. Excision of7495 ha across two daerah mentioned - Dungun and Marang. I assign 3747.5 ha to each daerah
+Pahang,Pekan,NOT STATED,383,Resak Tambahan,3670,,2008,2,28,2008,2,28,Gazette Plan: PW 3869. 
+Pahang,Pekan,NOT STATED,383,Nenasi Tambahan,5140,,2008,2,28,2008,2,28,Gazette Plan: PW 3869. 
+Pahang,Pekan,NOT STATED,383,Pekan Tambahan,4140,,2008,2,28,2008,2,28,Gazette Plan: PW 3869. Not sure if this is truly gazettement or reclassification
+Terengganu,Dungun,NOT STATED,183,Jerangau,,194.63,2008,2,28,1999,11,3,Gazette Plan: PW 750. Daerah not mentioned. Filled in based on external source.
+Terengganu,Hulu Terengganu,NOT STATED,184,Hulu Terengganu,,978.2,2008,2,28,1991,7,31,Gazette Plan: PW 564. Daerah not mentioned. Filled in based on external source.
+Pahang,Bentong,Bentong,680,Bukit Tinggi,,7.838,2008,4,10,2008,4,10,Gazette Plan: PW 3887. 
+Terengganu,Besut,NOT STATED,381,Pelagat,,85.69,2008,4,24,1988,9,27,Gazette Plan: PA 130221. Daerah not mentioned. Filled in based on external source.
+Kelantan,Gua Musang,Ulu Nenggiri,426,Sungai Betis,,3775,2008,4,24,2008,2,6,"Gazette Plan: PW 531. PT 5617, Converted to Sultanate Land Gazette #426"
+Kelantan,Kuala Krai,Kuala Pergau,527,Gunong Stong Tengah,,40.46,2008,5,22,2008,2,6,Gazette Plan: PW 385. PT 3556. I renamed from Gunung to Gunong (more recent spelling)
+Perak,Kuala Kangsar,Chegar Galah,814,Bintang Hijau,,0.83,2008,6,19,2008,6,19,Gazette Plan: PW 1774. 
+Pahang,Rompin,Rompin,1121,Menchali,,20.23,2008,6,19,2008,6,19,Gazette Plan: PW 3830. 
+Pahang,Bentong,Sabai,1203,Lakum Tambahan,,406.3,2008,7,3,2008,7,3,Gazette Plan: PW 3890. 
+Terengganu,Hulu Terengganu,Hulu Terengganu,946,Tembat,,6168,2008,8,28,2006,11,29,Gazette Plan: PW 795. Daerah not indicated. I filled in based on other entries.
+Johor,Segamat,"Gemereh, Buluh Kasap",7515,Gemereh,311.03,,2008,11,6,2008,11,6,"Gazette Plan: PW 2826, 2827. "
+Johor,Segamat,Jementah,7514,Jementah Tambahan,122.9,,2008,11,6,2008,11,6,Gazette Plan: PW 2828. 
+Johor,Segamat,Sungai Segamat,7513,Sungai Segamat,1301.94,,2008,11,6,2008,11,6,Gazette Plan: PW2805. 
+Johor,Segamat,"Sermin, Buluh Kasap",7516,Sermin,3256.49,,2008,11,7,2008,11,7,"Gazette Plan: PW 2811, 2812, 2813. "
+Terengganu,Dungun,Besul,1475,Besul,,22.32,2008,12,4,2007,12,19,Gazette Plan: PW 797. Daerah not mentioned. Filled in based on external source.
+Johor,Kluang,Renggam,8075,Kluang,,78.4,2008,12,4,2008,12,4,Gazette Plan: PW 2773. 
+Malacca,Alor Gajah,Kuala Linggi,752,X - NOT STATED,13.13,,2008,12,18,2008,12,18,Gazette Plan: PA 39951. Forest reserve NOT STATED
+Selangor,Ulu Selangor,Peretak dan Kerling,493,Semangko Tambahan,1627.856,,2009,2,12,2009,2,12,Gazette Plan: PW 1492. 
+Pahang,Rompin,Rompin,162,Menchali,20.23,,2009,2,12,2009,2,12,Gazette Plan: PW 3895. 
+Selangor,Kuala Langat,Batu,495,Kuala Langat Selatan,,526,2009,2,12,2009,2,12,Gazette Plan: PW 1146. 
+Terengganu,Besut,NOT STATED,224,Gunung Tebu,,0.1244,2009,3,26,1992,6,9,Gazette Plan: PW 593. Daerah not indicated. I filled in from other sources.
+Pahang,Lipis,Gua,648,Sungai Ketir,181,,2009,4,23,2009,4,23,Gazette Plan: PW 1123. 
+Pahang,Lipis,Cheka,647,Batu Yon Tambahan,521,,2009,4,23,2009,4,23,Gazette Plan: PW 3539. 
+Negeri Sembilan,Tampin,Gemas,234,Gemas Selatan,,121.4,2009,4,23,2009,4,23,Gazette Plan: PW 2494. 
+Perak,Manjung,Lumut,673,Batu Undan,,101.9,2009,5,21,2009,5,21,Gazette Plan: PW 1725. Exact same information as in Gazette #730 (2009)
+Pahang,Bentong,Bentong,828,Bukit Tinggi,,9.68,2009,6,4,2009,6,4,Gazette Plan: PW 3903. 
+Perak,Manjung,Lumut,730,Batu Undan,,101.9,2009,6,4,2009,6,4,Gazette Plan: PW 1725. Exact same information as in Gazette #673 (2009)
+Selangor,Klang,Klang,1791,Pulau Rusa,85,,2009,7,4,2009,7,4,Gazette Plan: PW 1485. 
+Selangor,Klang,Klang,1792,Pulau Tengah Tambahan,790,,2009,7,4,2009,7,4,Gazette Plan: PW 1485. Corrected by Gazette #4 (2010) in reserve name
+Selangor,Klang,Klang,1793,Pulau Klang Tambahan,267.75,,2009,7,4,2009,7,4,Gazette Plan: PW 1485. Corrected by Gazette #5 (2010) in reserve name
+Selangor,Klang,Klang,1794,Pulau Che Mat Zin Tambahan,42.91,,2009,7,4,2009,7,4,Gazette Plan: PW 1485. Corrected by Gazette #6 (2010) in reserve name
+Selangor,Klang,Klang,1795,Pulau Selat Kering Tambahan,509,,2009,7,4,2009,7,4,Gazette Plan: PW 1485. Corrected by Gazette #7 (2010) in reserve name
+Selangor,Klang,Kapar,1790,Pulau Ketam (Selangor),2365,,2009,7,4,2009,7,4,"Gazette Plan: PW 1485. I added ""Selangor"" to differentiate from the Perlis reserve"
+Selangor,Ulu Selangor,Kuala Kalumpang,1796,Bukit Tarek Tambahan II,117.22,,2009,7,4,2009,7,4,Gazette Plan: PW 1486. 
+Selangor,Ulu Selangor,Ulu Bernam,1797,Bukit Belata Tambahan II,146,,2009,7,4,2009,7,4,Gazette Plan: PW 1487. 
+Selangor,Ulu Langat,Ulu Semenyih,1798,Sungai Lalang Tambahan,69.968,,2009,7,4,2009,7,4,Gazette Plan: PW 1488. 
+Malacca,Melaka Tengah,Bukit Katil,347,X - NOT STATED,36.15,,2009,7,16,2009,7,16,Gazette Plan: PA 41136. Forest reserve NOT STATED
+Kedah,Padang Terap,Padang Terap,707,Koh Moi,,635.76,2009,7,30,2006,10,11,Gazette Plan: PW 3644. 
+Kedah,Pendang,Padang Peliang,869,Bukit Perak,,8.0937,2009,9,10,2009,3,4,Gazette Plan: PW 3178. 
+Terengganu,Hulu Terengganu,Hulu Terengganu,1263,Tembat,,13.986,2009,11,19,1994,1,26,Gazette Plan: PW 779. 
+Johor,Kota Tinggi,Kota Tinggi,12044,Seluyut,2255,,2009,12,3,2009,12,3,"Gazette Plan: PW 3031, PW 3032. "
+Terengganu,Kemaman,NOT STATED,1343,Sungai Nipah,,39.04,2009,12,3,2009,6,3,Gazette Plan: PA 9857. Daerah not mentioned. Filled in based on external source.
+Perak,Manjung,Lumut,1847,Pangkor Selatan,,2.2,2009,12,31,2009,12,31,Gazette Plan: PW 1959. 
+Terengganu,Hulu Terengganu,NOT STATED,76,Hulu Telemung,,0.2226,2010,2,4,2009,5,6,Gazette Plan: PW 817. Daerah not mentioned. Filled in based on external source.
+Perak,Kuala Kangsar,Kota Lama Kiri,197,Bukit Payong (Perak),,92.51,2010,2,4,2010,2,4,Gazette Plan: PW 1938. I added (Perak) to differentiate from the Kedah reserve
+Selangor,Gombak,"Setapak, Ulu Kelang",400,Ulu Gombak Tambahan,897.587,,2010,2,18,2010,2,18,Gazette Plan: PW 1531. 
+Selangor,Gombak,"Setapak, Ulu Kelang",401,Ulu Gombak Tambahan 1,114.48,,2010,2,18,2010,2,18,Gazette Plan: PW 1532. 
+Selangor,Sabak Bernam,Sungai Panjang,399,Sungai Dusun,1630.463,,2010,2,18,2010,2,18,"Gazette Plan: PW 1533. 3 daerah mentioned, so area is split among three"
+Selangor,Kuala Selangor,Tanjong Karang,399,Sungai Dusun,1630.463,,2010,2,18,2010,2,18,"Gazette Plan: PW 1533. 3 daerah mentioned, so area is split among three"
+Selangor,Ulu Selangor,Ulu Bernam,399,Sungai Dusun,1630.463,,2010,2,18,2010,2,18,"Gazette Plan: PW 1533. 3 daerah mentioned, so area is split among three"
+Selangor,Petaling,Pekan Baru Sungai Buloh,398,Kota Damansara,321.748,,2010,2,18,2010,2,18,Gazette Plan: PW 1534. 
+Pahang,Raub,Teras,352,Batu Talam,323.7,,2010,3,18,2010,3,18,Gazette Plan: PW 3905. 
+Johor,Mersing,Mersing,2358,Mersing,987.5,,2010,4,1,2010,4,1,Gazette Plan: PW 2830. 
+Pahang,Raub,Gali,560,Kelau,,324.2,2010,4,29,2010,4,29,Gazette Plan: PW 3911. 
+Kelantan,Gua Musang,Relai,563,Lebir,,4046.86,2010,4,29,2010,2,28,"Gazette Plan: G-236. PT 7575, PT7576 Converted to Sultanate Land Gazette #563"
+Terengganu,Setiu,Hulu Setiu,522,Hulu Setiu,,80.27,2010,5,13,2005,2,23,Gazette Plan: PA 123781. Daerah not mentioned. Filled in based on external source.
+Johor,Kulaijaya,"Senai, Kulai",3740,Gunung Pulai,,20.234,2010,5,27,2010,5,27,"Gazette Plan: G 46-64. PT 26520. District changed from ""Kulaijaya"" to ""Kulai"" following 2015 renaming."
+Negeri Sembilan,Jelebu,Kenaboi,422,Kenaboi,152.6,,2010,6,10,2010,6,10,Gazette Plan: PW 2580. 
+Kelantan,Gua Musang,Relai,956,Relai,,607.0416,2010,6,24,2003,7,2,Gazette Plan: PW 269. 
+Pahang,Raub,Teras,913,Sempam,365,,2010,7,8,2010,7,8,Gazette Plan: PW 3889. 
+Pahang,Raub,Dong,915,Bukit Taching,,161.9,2010,7,8,2010,7,8,Gazette Plan: PW 3912. 
+Pahang,Raub,Gali,914,Bukit Kajang,,205,2010,7,8,2010,7,8,Gazette Plan: PW 3888. 
+Selangor,Petaling,Petaling,2460,Ayer Hitam Tambahan,22.26,,2010,7,22,2010,7,22,Gazette Plan: PW 1554. 
+Selangor,Ulu Langat,Ampang,2261,Bukit Sungai Puteh (Selangor),,0.953,2010,7,22,2010,7,22,"Gazette Plan: PW 1552. I added ""Selangor"" to differentiate from the Kuala Lumpur reserve"
+Selangor,Kuala Langat,Tanjung Duabelas,2262,Kuala Langat Utara,,63.54,2010,7,22,2010,7,22,Gazette Plan: PW 1454. 
+Perak,Hulu Perak,Lenggong,1263,Piah,,739,2010,7,22,2010,7,22,Gazette Plan: PW 1978. 
+Johor,Tangkak,Tangkak,7852,Gunung Ledang,,98.9935,2010,9,2,2010,9,2,"Gazette Plan: PW 2424, PW 2425. PT 26004. District changed from ""Ledang"" to ""Tangkak"" following 2015 renaming."
+Negeri Sembilan,Jempol,Serting Ulu,592,Serting,,526.238,2010,9,9,2010,9,9,Gazette Plan: PW 2591. 
+Negeri Sembilan,Jelebu,Triang Ilir,629,Kenaboi,,1228.104,2010,9,30,2010,9,30,Gazette Plan: PW 2612. 
+Negeri Sembilan,Jempol,Serting Ulu,630,Serting,1190,,2010,10,14,2009,9,2,Gazette Plan: PW 2594. 
+Pahang,Pekan,Pekan,1472,Sungai Miang,,563.8,2010,10,14,2010,10,14,"Gazette Plan: PA 77180, 77181, 77182. "
+Negeri Sembilan,Jelebu,Triang Ilir,631,Kenaboi,,835.8,2010,10,14,2010,10,14,Gazette Plan: PW 2570. 
+Negeri Sembilan,Jelebu,Triang Ilir,637,Kenaboi,,1228.104,2010,10,28,2010,10,28,Gazette Plan: PW 2612. 
+Pahang,Kuantan,Hulu Kuantan,1947,Reman Chereh,58,,2010,11,25,2010,11,25,Gazette Plan: PW 3844. 
+Pahang,Kuantan,Hulu Kuantan,1948,Reman Chereh,,58,2010,11,25,2010,11,25,Gazette Plan: PW 3845. 
+Perak,Batang Padang,Sungkai,2051,Gunung Besout,,3178.14,2010,12,9,2010,12,9,Gazette Plan: PW 1986. 
+Pahang,Rompin,Keratong,2114,Bukit Ibam,135.9,,2010,12,16,2010,12,16,Gazette Plan: PW 3942. 
+Pahang,Rompin,Keratong,2115,Bukit Ibam,,135.9,2010,12,16,2010,12,16,Gazette Plan: PA 143236. 
+Negeri Sembilan,Tampin,Gemas,690,Gemas Selatan,,311.787,2010,12,23,2010,12,23,Gazette Plan: PW 2620. 
+Perak,Kinta,Hulu Kinta,2137,Kledang Saiong,,500.2,2010,12,23,2010,12,23,Gazette Plan: PW 1982. 
+Negeri Sembilan,Jempol,Jelai,689,Jelai-Gemas,,513.3,2010,12,23,2010,12,23,Gazette Plan: PW 2615. 
+Johor,Muar,Bukit Kepong,1,Maokil,,1159.424,2011,1,6,2011,1,6,Gazette Plan: PG 345. 
+Pahang,Pekan,Penyor,41,Bukit Ibam,100,,2011,1,20,2011,1,20,Gazette Plan: PW 3944. 
+Pahang,Rompin,Keratong,42,Bukit Ibam,,100,2011,1,20,2011,1,20,Gazette Plan: PA 143629. 
+Negeri Sembilan,Jelebu,Triang Ilir,24,Pasoh,,952.306,2011,1,20,2011,1,20,Gazette Plan: PW 2624. 
+Selangor,Gombak,Rawang,292,Bukit Lagong,,3.164,2011,2,3,2011,2,3,Gazette Plan: PW 1536. 
+Johor,Kluang,Kluang,1910,Kluang,,314.5,2011,2,17,2011,2,17,Gazette Plan: PW 3264. 
+Pahang,Rompin,Keratong,298,Ibam Tambahan,194.34,,2011,3,3,2011,3,3,Gazette Plan: PW 3956. 
+Pahang,Rompin,Keratong,299,Bukit Ibam,53.87,,2011,3,3,2011,3,3,Gazette Plan: PW 3957. 
+Pahang,Rompin,Keratong,300,Bukit Ibam,74.12,,2011,3,3,2011,3,3,Gazette Plan: PW 3958. 
+Pahang,Rompin,Keratong,301,Bukit Ibam,,53.87,2011,3,3,2011,3,3,Gazette Plan: PA 143597. 
+Pahang,Rompin,Keratong,302,Bukit Ibam,,74.12,2011,3,3,2011,3,3,Gazette Plan: PA 143598. 
+Pahang,Rompin,Keratong,303,Bukit Ibam,,194.224,2011,3,3,2011,3,3,Gazette Plan: PA 143646. 
+Johor,Johor Bahru,Tanjung Kupang,3023,Pendas,,8.535,2011,3,17,2011,3,17,Gazette Plan: PW 3115. 
+Kelantan,Kuala Krai,Kenor,438,Sungai Durian,,629.7,2011,3,17,2010,12,1,Gazette Plan: PW 502. 
+Pahang,Jerantut,Tebing Tinggi,746,Jerantut Tambahan,100,,2011,5,12,2011,5,12,Gazette Plan: PW 5001. 
+Pahang,Jerantut,Kuala Tembeling,747,Som,,100,2011,5,12,2011,5,12,Gazette Plan: PA 143711. 
+Terengganu,Hulu Terengganu,Hulu Terengganu,547,Tembat,,1.6341,2011,5,26,2010,1,20,Gazette Plan: PW 822. 
+Perak,Kuala Kangsar,Sungai Siput,1551,Korbu,,748.6,2011,8,18,2011,8,18,Gazette Plan: PW 1983. 
+Perlis,Titi Tinggi,Titi Tinggi,89,Mata Ayer,,3.8119,2011,8,27,2008,9,24,Gazette Plan: GN 15/1961. PT 8484
+Perlis,Titi Tinggi,Titi Tinggi,90,Mata Ayer,,5,2011,8,27,2006,5,24,Gazette Plan: GN 15/1961. PT 8654
+Kedah,Kubang Pasu,Temin,732,Bukit Perangin,,152.103,2011,9,1,2010,5,2,Gazette Plan: PW 3830. 
+Negeri Sembilan,Port Dickson,Jimah,505,Paya Bakau,98.657,,2011,9,29,2010,2,25,"Gazette Plan: PW 2617, 2618, 2619. Corrected by Gazette #492 (2023) in area"
+Negeri Sembilan,Jelebu,Triang Ilir,506,Kenaboi,,350,2011,9,29,2011,9,29,Gazette Plan: PW 2539. 
+Malacca,Jasin,Merlimau,778,X - NOT STATED,11.72,,2011,10,13,2011,10,13,Gazette Plan: PA 39708. Forest reserve NOT STATED
+Johor,Mersing,Mersing,11192,Gunung Arong Tambahan ,,22.78,2011,10,27,2011,10,27,Gazette Plan: PW 3277. 
+Perak,Batang Padang,Slim,1975,Bukit Slim,,27.86,2011,10,27,2011,10,27,Gazette Plan: PW 2006. 
+Johor,Mersing,Mersing,11191,Gunung Arong Tambahan B,,55.33,2011,10,27,2011,10,27,Gazette Plan: PW 3279. 
+Johor,Mersing,Tenglu,11191,Gunung Arong Tambahan A,,221.6,2011,10,27,2011,10,27,Gazette Plan: PW 3278. 
+Johor,Johor Bahru,Tanjung Kupang,11359,Sungai Pendas,,2.023,2011,11,10,2011,11,10,Gazette Plan: G 9-38. PTD 2991A
+Perak,Manjung,Lumut,2067,Tanjong Hantu,,56.05,2011,11,10,2011,11,10,Gazette Plan: PW 2011. 
+Johor,Mersing,Tenggaroh,1,Tenggaroh Tambahan B,,12.67,2012,1,5,2012,1,5,Gazette Plan: PW 3218. 
+Johor,Mersing,Tenggaroh,1,Tenggaroh Tambahan C,,69.22,2012,1,5,2012,1,5,Gazette Plan: PW 3218. 
+Johor,Mersing,Tenggaroh,2,Mergastua Endau Kota Tinggi,,90.6,2012,1,5,2012,1,5,Gazette Plan: PW 3219. 
+Johor,Mersing,Tenggaroh,1,Tenggaroh Tambahan A,,1231,2012,1,5,2012,1,5,Gazette Plan: PW 3218. 
+Johor,Mersing,Tenggaroh,3,Tenggaroh,,2619.4,2012,1,5,2012,1,5,Gazette Plan: PW 3220. 
+Johor,Mersing,Tenggaroh,4,Mergastua Endau Kota Tinggi,,2619.4,2012,1,5,2012,1,5,Gazette Plan: PW 3221. Seems the same excision as Gazette #3 (2012) but with different Pelan Warta
+Perak,Kuala Kangsar,Senggang,210,Bubu,,0.0669,2012,2,2,2012,2,2,Gazette Plan: PW 3083. 
+Perak,Kuala Kangsar,Pulau Kamiri,208,Chior Big Game,,0.16,2012,2,2,2012,2,2,Gazette Plan: PW 1142. 
+Perak,Kuala Kangsar,"Durian Pipit, Pulau Kamiri",209,Piah,,0.16,2012,2,2,2012,2,2,Gazette Plan: PW 1144. 
+Perak,Kuala Kangsar,Sungai Siput,211,Korbu,,1214,2012,2,2,2012,2,2,Gazette Plan: PW 2030. 
+Terengganu,Dungun,Jerangau,59,Besul Tambahan,2.515,,2012,2,16,2011,8,10,"Gazette Plan: PA 59382, 59383, 59384. "
+Pahang,Rompin,Endau,271,Lesung Tambahan,122.05,,2012,3,1,2012,3,1,Gazette Plan: PW 5009. 
+Pahang,Rompin,Keratong,272,Bukit Ibam,,122.05,2012,3,1,2012,3,1,Gazette Plan: PA 253314. 
+Perak,Batang Padang,Chenderiang,467,Bujang Melaka,,14.9,2012,3,7,2012,3,7,Gazette Plan: PW 2061. 
+Perak,Batang Padang,Chenderiang,466,Bukit Tapah,,60.7,2012,3,7,2012,3,7,Gazette Plan: PW 2075. 
+Perak,Batang Padang,Chenderiang,464,Bukit Tapah,,69.88,2012,3,7,2012,3,7,Gazette Plan: PW 2049. 
+Perak,Batang Padang,Chenderiang,465,Bukit Tapah,,70.41,2012,3,7,2012,3,7,Gazette Plan: PW 2077. 
+Perak,Batang Padang,Chenderiang,460,Bukit Tapah,,75.27,2012,3,7,2012,3,7,Gazette Plan: PW 2059. 
+Perak,Batang Padang,Chenderiang,461,Bukit Tapah,,87.41,2012,3,7,2012,3,7,Gazette Plan: PW 2069. 
+Perak,Batang Padang,Chenderiang,462,Bukit Tapah,,92.24,2012,3,7,2012,3,7,Gazette Plan: PW 2071. 
+Perak,Batang Padang,Chenderiang,463,Bukit Tapah,,116.69,2012,3,7,2012,3,7,Gazette Plan: PW 2067. 
+Perak,Batang Padang,Batang Padang,470,Bukit Tapah,,150.54,2012,3,7,2012,3,7,Gazette Plan: PW 2073. 
+Perak,Batang Padang,Batang Padang,472,Bukit Tapah,,153.3,2012,3,7,2012,3,7,Gazette Plan: PW 2063. 
+Perak,Batang Padang,Batang Padang,471,Bukit Tapah,,180.4,2012,3,7,2012,3,7,Gazette Plan: PW 2051. 
+Perak,Batang Padang,Batang Padang,469,Bukit Tapah,,186.3,2012,3,7,2012,3,7,Gazette Plan: PW 2055. 
+Perak,Batang Padang,Batang Padang,468,Bukit Tapah,,207.3,2012,3,7,2012,3,7,Gazette Plan: PW 2065. 
+Perak,Batang Padang,Slim,459,Bukit Slim,,390,2012,3,7,2012,3,7,Gazette Plan: PW 2048. 
+Perak,Hulu Perak,Kenering,479,Bintang Hijau,,145.687,2012,3,15,2012,3,15,"Gazette Plan: PA 44a, 44b, 44c. "
+Pahang,Jerantut,Tebing Tinggi,481,Jerantut Tambahan,200,,2012,3,29,2012,3,29,Gazette Plan: PW 5008. 
+Pahang,Lipis,Hulu Jelai,482,Bukit Ibam,,200,2012,3,29,2012,3,29,Gazette Plan: PA 143763. Corrected forest reserve name by Gazette #1256 (2012)
+Perak,Hulu Perak,Pengkalan Hulu,688,Padang Chong,,54.64,2012,4,12,2012,4,12,Gazette Plan: PW 3082. 
+Kedah,Kubang Pasu,Temin,291,Sungai Badak,,95,2012,4,26,2009,8,12,Gazette Plan: PW 50072. 
+Pahang,Jerantut,Tebing Tinggi,740,Jerantut Tambahan,100,,2012,5,10,2012,5,10,Gazette Plan: PW 50068. 
+Pahang,Jerantut,Kuala Tembeling,741,Som,,99.88,2012,5,10,2012,5,10,Gazette Plan: PA 251198. 
+Terengganu,Setiu,Hulu Setiu,458,Hulu Setiu,,4884,2012,5,24,2011,2,2,Gazette Plan: PW 829. Daerah not mentioned. Filled in based on external source.
+Johor,Johor Bahru,Tanjung Kupang,5172,Sungei Pulai,,22.56,2012,6,21,2012,6,21,Gazette Plan: PW 3336. I renamed from Sungai to Sungei (more recent spelling)
+Kelantan,Jeli,Kalai,1120,Sungai Betis Ganti,607.03,,2012,7,19,2011,6,12,Gazette Plan: PW 1030. 
+Kelantan,Gua Musang,Ulu Nenggiri,1121,Sungai Betis,,594.894,2012,7,19,2011,6,12,Gazette Plan: PW 531. 
+Malacca,Alor Gajah,Sungei Baru Ilir,571,X - NOT STATED,59.94,,2012,8,2,2011,6,8,Gazette Plan: PA 45736. Forest reserve NOT STATED
+Malacca,Alor Gajah,Kemuning,571,X - NOT STATED,26,,2012,8,2,2011,6,8,Gazette Plan: PA 45739. Forest reserve NOT STATED
+Kelantan,Kuala Krai,Batu Mengkebang,1287,Sokor Taku,,40.468,2012,8,16,2011,9,7,Gazette Plan: PW 414. 
+Negeri Sembilan,Kuala Pilah,Terachi,837,Berembun,,83.47,2012,10,11,2012,10,11,"Gazette Plan: PW 5172, 5173. "
+Perak,Kampar,Teja,1897,Bukit Kinta,,140.5,2012,10,11,2012,10,11,Gazette Plan: PW 2080. 
+Perak,Kinta,"Hulu Kinta, Sungai Raya",1896,Bukit Kinta,,910,2012,10,11,2012,10,11,Gazette Plan: PW 2079. 
+Pahang,Rompin,Endau,1875,Lesung Tambahan,80,,2012,12,6,2012,12,6,Gazette Plan: PW 5023. 
+Pahang,Lipis,Kechau,1874,Chuat Tambahan,165,,2012,12,6,2012,12,6,Gazette Plan: PW 5024. 
+Pahang,Rompin,Keratong,1877,Bukit Ibam,,79.93,2012,12,6,2012,12,6,Gazette Plan: PA 256002. 
+Pahang,Lipis,Batu Yon,1876,Aur Gading,,165,2012,12,6,2012,12,6,Gazette Plan: PA 256386. 
+Negeri Sembilan,Tampin,Gemas,1004,Gemas Selatan,86.53,,2012,12,20,2012,5,2,Gazette Plan: PW 5203. 
+Kedah,Padang Terap,Batang Tunggang Kiri dan Batang Tunggang Kanan,24,Bukit Keramat,11105,,2013,1,17,2013,1,17,Gazette Plan: PW 1305. 
+Kedah,Padang Terap,"Tekai, Pedu",25,Bukit Kemunting,5928,,2013,1,17,2013,1,17,Gazette Plan: PW 1306. 
+Kedah,Padang Terap,"Tolak, Batang Tunggang Kiri",26,Bukit Genting Iboi,6394,,2013,1,17,2013,1,17,Gazette Plan: PW 1307. 
+Kedah,Sik,Sok,27,Bukit Saiong,8191,,2013,1,17,2013,1,17,Gazette Plan: PW 1308. I renamed from Siong to Saiong (more recent spelling)
+Kedah,Kubang Pasu,Malau,28,Bukit Kerong,391,,2013,1,17,2013,1,17,Gazette Plan: PW 1311. Gazettement made in two districts: Padang Terap and Kubang Pasu
+Kedah,Kubang Pasu,"Pelubang, Malau, Wang Tepus",29,Bukit Payong (Kedah),1188,,2013,1,17,2013,1,17,Gazette Plan: PW 1312. I added (Kedah) to differentiate from the Perak reserve.
+Kedah,Sik,Sik,30,Terenas Tambahan,381,,2013,1,17,2013,1,17,Gazette Plan: PW 1339. 
+Kedah,Sik,Sok,31,Ulu Muda Tambahan,1359,,2013,1,17,2013,1,17,Gazette Plan: PW 1342. 
+Pahang,Lipis,Batu Yon,61,Aur Gading Tambahan,202.8,,2013,1,17,2013,1,17,Gazette Plan: PW 5017. 
+Pahang,Rompin,Endau,60,Lesung Tambahan,80,,2013,1,17,2013,1,17,Gazette Plan: PW 5022. 
+Pahang,Jerantut,Kuala Tembeling,62,Som,,80,2013,1,17,2013,1,17,Gazette Plan: PA 144067. 
+Pahang,Lipis,Hulu Jelai,63,Ulu Jelai,,202.8,2013,1,17,2013,1,17,Gazette Plan: PA 143744. Reserve renamed from Hulu Jelai to Ulu Jelai (more recent spelling)
+Kedah,Kubang Pasu,Temin,32,Bukit Perangin,,282.375,2013,1,17,2012,10,29,"Gazette Plan: PW 50157, 50158, 10159. "
+Pahang,Rompin,Endau,236,Lesung Tambahan,98.53,,2013,2,14,2013,2,14,Gazette Plan: PW 5027. 
+Pahang,Jerantut,Kuala Tembeling,237,Som,,98.53,2013,2,14,2013,2,14,Gazette Plan: PA 256911. 
+Negeri Sembilan,Jelebu,Pertang,166,Kenaboi,1062.3,,2013,3,14,2011,1,12,Gazette Plan: PW 5209. 
+Perak,Kinta,Hulu Kinta,399,Bukit Kinta,,1068,2013,3,14,2013,3,14,"Gazette Plan: PA 106062, 106063, 106064. "
+Perak,Kuala Kangsar,Senggang,398,Kledang Saiong,,1772,2013,3,14,2013,3,14,Gazette Plan: PW 1845. 
+Pahang,Lipis,Batu Yon,505,Aur Gading Tambahan,80.91,,2013,3,28,2013,3,28,Gazette Plan: PW 5031. 
+Pahang,Lipis,Batu Yon,506,Aur Gading Tambahan,197.5,,2013,3,28,2013,3,28,Gazette Plan: PW 5032. 
+Pahang,Lipis,Hulu Jelai,507,Ulu Jelai,,80.91,2013,3,28,2013,3,28,Gazette Plan: PA 144276. Reserve renamed from Hulu Jelai to Ulu Jelai (more recent spelling)
+Pahang,Lipis,Hulu Jelai,508,Ulu Jelai,,197.5,2013,3,28,2013,3,28,Gazette Plan: PA 144277. Reserve renamed from Hulu Jelai to Ulu Jelai (more recent spelling)
+Terengganu,Hulu Terengganu,Hulu Terengganu,308,Tembat,,1114.0983,2013,3,28,2012,9,19,Gazette Plan: PW 848. 
+Pahang,Lipis,Kechau,700,Chuat Tambahan,61.23,,2013,4,11,2013,4,11,Gazette Plan: PW 5034. 
+Pahang,Rompin,Keratong,701,Bukit Ibam,,60.72,2013,4,11,2013,4,11,Gazette Plan: PA 258359. 
+Kedah,Baling,Kupang,265,Gunung Inas,,98.53,2013,4,11,2012,4,19,"Gazette Plan: PW 50176, 50177. I renamed from Gunong to Gunung (more recent spelling)"
+Kelantan,Kuala Krai,Gajah,678,Sungai Sam,,202.343,2013,4,11,2011,9,7,Gazette Plan: PW 391. 
+Perak,Hulu Perak,"Belum, Temenggor",786,Amanjaya,18866,,2013,5,9,2013,5,9,Gazette Plan: PW 2112. 
+Kedah,Langkawi,Kuah,398,Pulau Tuba,,12.28,2013,6,6,2012,1,11,Gazette Plan: PA 360547. 
+Kelantan,Gua Musang,Ulu Nenggiri,1128,Berangkat,,118.898,2013,6,20,2013,4,3,Gazette Plan: PW 262. 
+Kelantan,Gua Musang,Relai,1127,Relai,,404,2013,6,20,2012,8,8,Gazette Plan: PW 269. 
+Pahang,Raub,Teras,1092,Rotan Tunggal,,20.24,2013,7,4,2013,7,4,Gazette Plan: PA 257842. 
+Kedah,Padang Terap,Tolak,458,Koh Moi,,41.93,2013,7,4,2009,12,23,Gazette Plan: PW 50184. 
+Perak,Batang Padang,Sungkai,1103,Bikam,,495.5,2013,7,4,2013,7,4,Gazette Plan: PW 2113. 
+Pahang,Lipis,Kechau,1225,Chuat Tambahan,200,,2013,7,18,2013,7,18,Gazette Plan: PW 5053. 
+Pahang,Lipis,Hulu Jelai,1226,Ulu Jelai Tambahan,,200,2013,7,18,2013,7,18,Gazette Plan: PA 258704. Reserve renamed from Hulu Jelai to Ulu Jelai (more recent spelling)
+Perak,Hulu Perak,Belukar Semang,1214,Belukar Semang,,396.188,2013,7,18,2013,7,18,Gazette Plan: PW 3348. 
+Pahang,Kuantan,Sungai Karang,1375,Balok,,758.7,2013,8,15,2013,8,15,Gazette Plan: PW 5025. 
+Perak,Perak Tengah,Layang-layang,1662,Parit,,30.39,2013,8,29,2013,8,29,Gazette Plan: PW 1936. 
+Negeri Sembilan,Port Dickson,Pasir Panjang,454,Pasir Panjang (Negeri Sembilan),,1.3011,2013,10,24,2013,10,24,"Gazette Plan: PW 5178. I added ""Negeri Sembilan"" to differentiate from the Penang reserve"
+Johor,Johor Bahru,Jelutong,4447,Sungei Pulai,,18.82,2013,10,24,2013,10,24,Gazette Plan: PW 3362. I renamed from Sungai to Sungei (more recent spelling). English version was wrongly written as Tenggaroh
+Terengganu,Hulu Terengganu,Hulu Telemung,954,Hulu Telemung,,22.15,2013,10,24,2012,9,19,Gazette Plan: PW 850. Daerah not mentioned. Filled in based on external source.
+Perak,"Larut, Matang, dan Selama",Hulu Ijok,2161,Bintang Hijau,,648,2013,11,7,2013,11,7,Gazette Plan: PW 2116. Ijok and Bintang Hijau mentioned together for excision of 1296 ha
+Perak,"Larut, Matang, dan Selama",Hulu Selama,2161,Ijok,,648,2013,11,7,2013,11,7,Gazette Plan: PW 2116. Ijok and Bintang Hijau mentioned together for excision of 1296 ha
+Perak,Hulu Perak,Kenering,2356,Belukar Semang,,19.988,2013,12,5,2013,12,5,Gazette Plan: PW 2125. 
+Perak,Hulu Perak,Kenering,2357,Kenderong,,170.034,2013,12,5,2013,12,5,Gazette Plan: PW 2125. 
+Perak,Hulu Perak,Kenering,2355,Bintang Hijau,,172.708,2013,12,5,2013,12,5,Gazette Plan: PW 2125. 
+Pahang,Lipis,Kechau,325,Chuat Tambahan,200,,2014,2,27,2014,2,27,Gazette Plan: PW 5053. 
+Pahang,Lipis,Batu Yon,326,Yu,,149.7,2014,2,27,2014,2,27,Gazette Plan: PA 263909. 
+Perak,Hulu Perak,Durian Pipit,601,Piah,,994,2014,3,20,2014,3,20,Gazette Plan: PW 3113. 
+Perak,Kuala Kangsar,Senggang,603,Bubu,,44.21,2014,3,27,2014,3,27,Gazette Plan: PA 121167. 
+Kelantan,Kuala Krai,"Manek Urai, Manjur",684,Ulu Temiang,,125.2,2014,4,10,2013,11,13,Gazette Plan: PW 1085. Remaining area do not tally
+Kelantan,Gua Musang,Relai,684,Lebir,,213.7,2014,4,10,2013,11,13,"Gazette Plan: PW 1083, 1084. Remaining area do not tally"
+Pahang,Lipis,Batu Yon,785,Ulu Jelai Tambahan,40.47,,2014,5,8,2014,5,8,Gazette Plan: PW 5069. Reserve renamed from Hulu Jelai Tambahan to Ulu Jelai Tambahan (more recent spelling)
+Pahang,Lipis,Batu Yon,786,Yu,,40.47,2014,5,8,2014,5,8,Gazette Plan: PW 5068. 
+Pahang,Pekan,Penyor,1108,Chini Tambahan,60.73,,2014,7,3,2014,7,3,Gazette Plan: PW 5073. 
+Pahang,Lipis,Kechau,1109,Chuat Tambahan,40,,2014,7,3,2014,7,3,Gazette Plan: Pw 5074. 
+Pahang,Rompin,Keratong,1111,Bukit Ibam,,36.42,2014,7,3,2014,7,3,Gazette Plan: PW 5075. 
+Pahang,Rompin,Keratong,1110,Bukit Ibam,,60.73,2014,7,3,2014,7,3,Gazette Plan: PA 264135. 
+Perak,Kuala Kangsar,Pulau Kamiri,1927,Chior Big Game,,692.7,2014,7,31,2014,7,31,Gazette Plan: PW 2126. 
+Perak,Kuala Kangsar,Pulau Kamiri,1928,Piah,,1150.55,2014,7,31,2014,7,31,Gazette Plan: PW 2127. 
+Pahang,Kuantan,Kuala Kuantan,1500,Bukit Galing,,56.151,2014,8,28,2014,8,28,Gazette Plan: PW 5056. 
+Pahang,Pekan,Penyor,1522,Chini Tambahan,40.47,,2014,9,11,2014,9,11,Gazette Plan: PW 5080. 
+Pahang,Pekan,Penyor,1523,Bukit Ibam,,40.46,2014,9,11,2014,9,11,Gazette Plan: PW 5081. 
+Kelantan,Gua Musang,Ulu Nenggiri,2083,Batu Papan,,1968.68,2014,9,11,2014,2,19,Gazette Plan: PW 1086. 
+Pahang,Lipis,Kechau,1573,Chuat Tambahan,40.47,,2014,9,25,2014,9,25,Gazette Plan: PW 5083. 
+Pahang,Lipis,Kechau,1574,Chuat Tambahan,62.38,,2014,9,25,2014,9,25,Gazette Plan: PW 5087. 
+Pahang,Lipis,Batu Yon,1575,Yu,,40.47,2014,9,25,2014,9,25,Gazette Plan: PW 5085. 
+Pahang,Kuantan,Sungai Karang,1576,Balok,,62.27,2014,9,25,2014,9,25,Gazette Plan: PA 266389. 
+Pahang,Lipis,Kechau,1663,Chuat Tambahan,77.01,,2014,10,9,2014,10,9,Gazette Plan: PW 5082. 
+Pahang,Lipis,Kechau,1662,Chuat Tambahan,62.38,,2014,10,9,2014,10,9,Gazette Plan: PW 5087. 
+Pahang,Kuantan,Sungai Karang,1665,Balok,,62.27,2014,10,9,2014,10,9,Gazette Plan: PA 266389. 
+Perak,Hulu Perak,Gerik,2524,Ayer Chepam,,67.78,2014,10,9,2014,10,9,Gazette Plan: PW 3491. 
+Pahang,Lipis,Hulu Jelai,1664,Ulu Jelai,,77.01,2014,10,9,2014,10,9,Gazette Plan: PA 264214. 
+Terengganu,Marang,Merchang,1110,Paya Gelam,103.8,,2014,11,6,2014,4,23,Gazette Plan: PW 870. 
+Perak,"Larut, Matang, dan Selama",Hulu Selama,2853,Bintang Hijau,,4.05,2014,11,20,2014,11,20,Gazette Plan: PW 3667. 
+Johor,Mersing,Mersing,5013,Tenggaroh,,6917.29,2014,12,18,2014,12,18,Gazette Plan: G 6-51. 
+Johor,Mersing,Endau,5012,Jemaluang,,8093.713,2014,12,18,2014,12,18,Gazette Plan: PW 1. 
+Pahang,Jerantut,Tembeling,2200,Yong,,4047,2014,12,29,2014,12,29,Gazette Plan: PW 5093. 
+Perak,Kuala Kangsar,Kota Lama Kiri,88,Bintang Hijau,,5.756,2015,1,15,2015,1,15,Gazette Plan: PA 131313. 
+Perak,Hulu Perak,Lenggong,380,Piah,2362,,2015,2,12,2015,2,12,Gazette Plan: PW 3487. 
+Perak,Manjung,Lumut,381,Teluk Meroh,116.6,,2015,2,12,2015,2,12,Gazette Plan: PW 3638. I renamed from Muroh to Meroh (most recent spelling)
+Perak,Manjung,Lekir,379,Lekir,616,,2015,2,12,2015,2,12,Gazette Plan: PW 3776. 
+Pahang,Kuantan,Sungai Karang,313,Balok Tambahan,58.88,,2015,2,12,2015,2,12,Gazette Plan: PW 5055. 
+Pahang,Kuantan,Hulu Kuantan,317,Reman Chereh Tambahan,50.27,,2015,2,12,2015,2,12,Gazette Plan: PW 5088. 
+Pahang,Jerantut,Tembeling,314,Yong Tambahan,101.26,,2015,2,12,2015,2,12,Gazette Plan: PW 5089. 
+Pahang,Jerantut,Tembeling,316,Yong Tambahan,60.72,,2015,2,12,2015,2,12,Gazette Plan: PW 5090. 
+Pahang,Jerantut,Tembeling,315,Yong Tambahan,133.7,,2015,2,12,2015,2,12,Gazette Plan: PW 5091. 
+Pahang,Jerantut,Kuala Tembeling,320,Som,,50.01,2015,2,12,2015,2,12,Gazette Plan: PA 263758. 
+Pahang,Lipis,Cheka,319,Kerambit,,60.68,2015,2,12,2015,2,12,Gazette Plan: PA 264043. 
+Pahang,Lipis,Hulu Jelai,318,Ulu Jelai,,101.2,2015,2,12,2015,2,12,Gazette Plan: PA 265500. 
+Pahang,Pekan,Penyor,321,Chini,,133.4,2015,2,12,2015,2,12,Gazette Plan: PA 264154. I renamed from Cini to Chini (most recent spelling)
+Terengganu,Setiu,Hulu Nerus,206,Bukit Mual,260.3,,2015,3,12,2014,9,10,Gazette Plan: PA 68923. 
+Pahang,Jerantut,Tembeling,533,Yong Tambahan,49.99,,2015,3,12,2015,3,12,Gazette Plan: PW 5094. 
+Johor,Batu Pahat,Simpang Kanan,1127,Soga Tambahan,,2.924,2015,3,12,2015,3,12,Gazette Plan: G 11-43. 
+Pahang,Raub,Batu Talam,534,Batu Talam,,49.87,2015,3,12,2015,3,12,Gazette Plan: PA 268035. 
+Johor,Mersing,Tenggaroh,1126,Tenggaroh,,670.8,2015,3,12,2015,3,12,Gazette Plan: PW 3261. 
+Malacca,Alor Gajah,Kuala Linggi,209,X - NOT STATED,10.56,,2015,3,26,2012,5,9,Gazette Plan: PA 103238. Forest reserve NOT STATED
+Malacca,Jasin,Merlimau,208,X - NOT STATED,12.51,,2015,3,26,2013,3,6,Gazette Plan: PA 28653. Forest reserve NOT STATED
+Negeri Sembilan,Seremban,Labu,341,Gallah,,15.22,2015,4,9,2015,4,9,Gazette Plan: PW 5351. 
+Negeri Sembilan,Seremban,Labu,340,Gallah,,20.45,2015,4,9,2015,4,9,Gazette Plan: PW 5351. 
+Pahang,Rompin,Keratong,1040,Sungai Pukin Tambahan,100,,2015,6,4,2015,6,4,Gazette Plan: PW 5084. 
+Pahang,Rompin,Keratong,1041,Sungai Lesong,,100,2015,6,4,2015,6,4,Gazette Plan: PW 5077. 
+Pahang,Lipis,Kechau,1613,Chuat Tambahan,202.86,,2015,9,10,2015,9,10,Gazette Plan: PW 5101. 
+Kedah,Pendang,Padang Peliang,702,Bukit Perak,,80.94,2015,9,10,2015,1,7,Gazette Plan: PW 50321. 
+Pahang,Lipis,Batu Yon,1614,Ulu Jelai,,201.4,2015,9,10,2015,9,10,"Gazette Plan: PA 271262, 271263. "
+Pahang,Kuantan,Sungai Karang,1807,Balok Tambahan,60.73,,2015,9,24,2015,9,24,Gazette Plan: PW 5100. 
+Perak,"Larut, Matang, dan Selama",Jebong,2612,Jebong,,9.105,2015,9,24,2015,9,24,Gazette Plan: PW 4000. 
+Negeri Sembilan,Seremban,Labu,739,Gallah,,16.48,2015,9,24,2015,9,24,Gazette Plan: PW 5351. 
+Pahang,Jerantut,Kuala Tembeling,1808,Som,,60.71,2015,9,24,2015,9,24,Gazette Plan: PA 269370. 
+Negeri Sembilan,Jelebu,Ulu Klawang,890,Berembun,,9.5835,2015,12,3,2015,12,3,Gazette Plan: PW 5331. 
+Negeri Sembilan,Kuala Pilah,Johol,888,Senaling-Inas,,12.1743,2015,12,3,2015,12,3,Gazette Plan: PW 5338. 
+Negeri Sembilan,Kuala Pilah,Johol,889,Senaling-Inas,,12.1842,2015,12,3,2015,12,3,Gazette Plan: PW 5334. 
+Negeri Sembilan,Jelebu,Triang Ilir,891,Pasoh,,24.3,2015,12,3,2015,12,3,Gazette Plan: PW 5349. 
+Perak,Hulu Perak,Kenering,3400,Papulut,,110.6,2015,12,3,2015,12,3,Gazette Plan: PW 4060. 
+Perak,Hulu Perak,Gerik,3399,Papulut,,209.7,2015,12,3,2015,12,3,Gazette Plan: PW 4144. 
+Perak,Hulu Perak,Kenering,3401,Papulut,,325.89,2015,12,3,2015,12,3,Gazette Plan: PW 3979. 
+Perak,Kuala Kangsar,Chegar Galah,3569,Bintang Hijau,,0.4431,2015,12,31,2015,12,31,Gazette Plan: PA 142087. 
+Perak,Hulu Perak,Kenering,303,Papulut,,19.3,2016,2,5,2016,2,5,Gazette Plan: PW 4063. 
+Pahang,Kuantan,Kuala Kuantan,288,Bukit Galing Tambahan,10.28,,2016,3,17,2016,3,17,Gazette Plan: PA 121287. 
+Pahang,Kuantan,Sungai Karang,695,Balok Tambahan,100,,2016,5,9,2016,5,9,Gazette Plan: PW 5188. 
+Pahang,Lipis,Hulu Jelai,696,Ulu Jelai,,100,2016,5,9,2016,5,9,Gazette Plan: PA 272384. 
+Pahang,Jerantut,Tembeling,703,Tekai Tembeling,,9.308,2016,5,12,2016,5,12,Gazette Plan: PW 5057. 
+Johor,Muar,Tangkak,1564,Gunung Ledang,,3.964,2016,5,26,2016,5,26,Gazette Plan: PW 3349. 
+Perak,Hulu Perak,Lenggong,1265,Piah,,2252.881,2016,5,26,2016,5,26,Gazette Plan: PW 4217. 
+Negeri Sembilan,Jempol,Serting Ulu,262,Pasoh,,4.0901,2016,6,23,2016,6,23,Gazette Plan: PW 5324. 
+Negeri Sembilan,Kuala Pilah,Johol,264,Johol,,12.129,2016,6,23,2016,6,23,Gazette Plan: PW 5345. 
+Negeri Sembilan,Kuala Pilah,Johol,263,Johol,,30,2016,6,23,2016,6,23,Gazette Plan: PW 5380. 
+Johor,Segamat,Bekok,1837,Labis,,1079,2016,6,23,2016,6,23,Gazette Plan: PW 3020. 
+Pahang,Cameron Highlands,Tanah Rata,1149,Ulu Bertam,,2.012,2016,8,4,2016,8,4,Gazette Plan: PW 5050. 
+Pahang,Cameron Highlands,Tanah Rata,1150,Ulu Bertam,,33.132,2016,8,4,2016,8,4,Gazette Plan: PW 5051. 
+Terengganu,Hulu Terengganu,Hulu Terengganu,812,Tembat,,53.2,2016,8,4,1997,2,5,Gazette Plan: PW 879. 
+Kedah,Langkawi,Kuah,697,Selat Panchor,,15.89,2016,10,13,2007,4,11,Gazette Plan: PW 50345. 
+Malacca,Alor Gajah,Sungei Baru Ulu,582,X - NOT STATED,20.3,,2016,10,27,2011,6,8,Gazette Plan: PA 105369. Forest reserve NOT STATED
+Malacca,Jasin,Sebatu,583,X - NOT STATED,24.7174,,2016,10,27,2013,3,6,Gazette Plan: PA 105458. Forest reserve NOT STATED
+Malacca,Alor Gajah,Taboh Naning,584,X - NOT STATED,41.65,,2016,10,27,2012,8,29,Gazette Plan: PA 45887. Forest reserve NOT STATED
+Pahang,Raub,Teras,1861,Batu Talam Tambahan,61.32,,2016,11,24,2016,11,24,Gazette Plan: PW 5195. 
+Pahang,Raub,Gali,1863,Kelau,,20.24,2016,11,24,2016,11,24,Gazette Plan: PW 5197. 
+Pahang,Raub,Gali,1862,Rotan Tunggal,,40.47,2016,11,24,2016,11,24,Gazette Plan: PW 5194. 
+Terengganu,Dungun,Jerangau,1263,Besul,,2553,2016,12,8,2012,7,25,Gazette Plan: PW 1007. 
+Kedah,Kuala Muda,Gurun,59,Gunung Jerai,,46.538,2017,1,19,2004,1,28,Gazette Plan: DW 50537. 
+Perak,Hulu Perak,Pengkalan Hulu,219,Sungai Kuak,,202.4,2017,1,19,2017,1,19,Gazette Plan: PW 4323. 
+Perak,Batang Padang,Bidor,385,Sungai Chikus,,663.4,2017,2,2,2017,2,2,Gazette Plan: PW 4172. 
+Perak,Kinta,Hulu Kinta,554,Kledang Saiong,18.206,,2017,2,16,2017,2,16,Gazette Plan: PA 31687. 
+Perak,Kuala Kangsar,Sungai Siput,555,Sungai Plus,,931.92,2017,2,16,2017,2,16,Gazette Plan: PW 4203. 
+Perak,"Larut, Matang, dan Selama",Sungai Tinggi,571,Sungai Tinggi,,7.305,2017,3,2,2017,3,2,"Gazette Plan: PW 3722. Daerah changed to Larut, Matang dan Selama (more recent designation)"
+Pahang,Bentong,Sabai,646,Lentang Tambahan,60.88,,2017,4,13,2017,4,13,Gazette Plan: PW 5213. 
+Pahang,Rompin,Keratong,557,Bukit Ibam,,22.76,2017,4,13,2017,4,13,Gazette Plan: PW 5193. 
+Pahang,Rompin,Keratong,647,Bukit Ibam,,60.69,2017,4,13,2017,4,13,Gazette Plan: PA 274030. 
+Perak,Manjung,Pengkalan Baharu,1225,Segari Melintang,,0.3,2017,5,4,2017,5,4,Gazette Plan: PW 4274. Mukim renamed from Pengkalan Bahru to Pengkalan Baharu (more recent spelling)
+Pahang,Rompin,Keratong,757,Sungai Pukin Tambahan,40.71,,2017,5,11,2017,5,11,Gazette Plan: PW 5199. 
+Johor,Johor Bahru,Tanjung Kupang,2655,Sungei Pulai,,812.63,2017,5,11,2017,5,11,"Gazette Plan: G 72-60. PT 5087, 5088, 5089, 5090"
+Kelantan,Tumpat,Periok,740,Kubang Nibong,,13.044,2017,5,25,2014,8,6,"Gazette Plan: PW 1390. PT 2526, PT 2527"
+Selangor,Gombak,Batu,2192,Bukit Lagong Plot A,40.46,,2017,6,22,2017,6,22,Gazette Plan: PW 1892. 
+Selangor,Gombak,Batu,2193,Ulu Gombak Tambahan 3,60.07,,2017,6,22,2017,6,22,Gazette Plan: PW 1894. 
+Selangor,Gombak,Batu,2194,Ulu Gombak,,20.3,2017,6,22,2017,6,22,Gazette Plan: PW 1893. 
+Pahang,Lipis,Kechau,1167,Chuat Tambahan,60.72,,2017,7,6,2017,7,6,Gazette Plan: PW 5210. 
+Pahang,Lipis,Penjom,1168,Terengun,,60.69,2017,7,6,2017,7,6,Gazette Plan: PA 278275. 
+Terengganu,Kuala Nerus,Pakoh,780,Belara,,2432,2017,8,17,2016,4,20,Gazette Plan: PW 1015. 
+Perak,Kinta,Hulu Kinta,2578,Kledang Saiong,,24.62,2017,9,14,2017,9,14,Gazette Plan: PW 4450. 
+Kedah,Kuala Muda,Gurun,593,Bukit Perak,,112.46,2017,9,14,2013,7,11,Gazette Plan: DW 50671. 
+Negeri Sembilan,Tampin,Gemas,513,Gemas Selatan,,18.65,2017,9,28,2017,9,28,Gazette Plan: PW 5466. 
+Perak,Perak Tengah,Layang-layang,2837,Parit,,20.234,2017,10,12,2017,10,12,Gazette Plan: PW 4022. 
+Perak,Muallim,Hulu Bernam,3053,Behrang,,2.84,2017,11,9,2017,11,9,Gazette Plan: PW 4404. 
+Terengganu,Hulu Terengganu,Hulu Terengganu,1307,Tembat,,5.803,2017,11,23,2017,2,1,Gazette Plan: PW 1030. 
+Terengganu,Hulu Terengganu,Hulu Terengganu,1306,Tembat,,7.708,2017,11,23,2017,2,1,Gazette Plan: PW 1031. 
+Terengganu,Hulu Terengganu,Hulu Terengganu,1304,Tembat,,14.64,2017,11,23,2017,2,1,Gazette Plan: PW 1029. 
+Terengganu,Hulu Terengganu,Hulu Terengganu,1308,Tembat,,20.39,2017,11,23,2017,2,1,Gazette Plan: PW 1028. 
+Terengganu,Hulu Terengganu,Hulu Terengganu,1305,Tembat,,36.21,2017,11,23,2017,2,1,Gazette Plan: PW 1027. 
+Terengganu,Hulu Terengganu,Hulu Terengganu,1309,Tembat,,40.53,2017,11,23,2017,2,15,Gazette Plan: PW 1016. 
+Terengganu,Kemaman,Tebak,1299,Bandi,,58.3,2017,11,23,2016,3,2,Gazette Plan: PW 1019. 
+Terengganu,Kemaman,Bandi,1300,Bandi,,59.86,2017,11,23,2016,8,24,Gazette Plan: PW 1018. 
+Terengganu,Kemaman,Bandi,1301,Bandi,,60,2017,11,23,2016,8,24,Gazette Plan: PW 1021. 
+Terengganu,Kemaman,Bandi,1303,Bandi,,60,2017,11,23,2016,8,10,Gazette Plan: PW 1022. 
+Terengganu,Kemaman,Bandi,1302,Bandi,,118.3,2017,11,23,2016,3,2,Gazette Plan: PW 1020. 
+Johor,Segamat,Bekok,4943,Labis,,125.6,2017,11,23,2017,11,23,Gazette Plan: PW 3345. PTD 1811
+Terengganu,Hulu Terengganu,Hulu Terengganu,1310,Tembat,,379.9,2017,11,23,2017,2,1,Gazette Plan: PW 1026. 
+Johor,Batu Pahat,Chaah Bahru,5141,Maokil Tambahan,,364.2,2017,12,7,2017,12,7,Gazette Plan: PW 50068. 
+Johor,Kluang,Kluang,5317,Renggam,,43.92,2017,12,21,2017,12,21,Gazette Plan: PW 50073. 
+Johor,Pontian ,Tanjung Kupang,264,Pendas,,396.592,2018,2,1,2018,2,1,Gazette Plan: G 9-38. 
+Terengganu,Hulu Terengganu,Hulu Terengganu,269,Tembat,,18.399,2018,3,1,2017,1,25,Gazette Plan: PW 1025. 
+Perak,Kinta,Sungai Raya,655,Bukit Kinta,,40.469,2018,3,1,2018,3,1,Gazette Plan: PW 4579. 
+Pahang,Raub,Teras,437,Batu Talam Tambahan,60.71,,2018,3,15,2018,3,15,Gazette Plan: PW 5201. 
+Pahang,Raub,Teras,438,Batu Talam Tambahan,404.9,,2018,3,15,2018,3,15,Gazette Plan: PW 5314. 
+Pahang,Raub,Teras,440,Rotan Tunggal,,60.27,2018,3,15,2018,3,15,Gazette Plan: PW 5211. 
+Pahang,Raub,Gali,439,Kelau,,404.7,2018,3,15,2018,3,15,Gazette Plan: PW 5313. 
+Perak,"Larut, Matang, dan Selama",Bukit Gantang,796,Bukit Larut,,124.7,2018,3,29,2018,3,29,Gazette Plan: PW 1469. 
+Perak,"Larut, Matang, dan Selama",Batu Kurau,797,Pondok Tanjung,,177.9,2018,3,29,2018,3,29,Gazette Plan: PW 1474. 
+Perak,"Larut, Matang, dan Selama",Bukit Gantang,798,Bubu,,335.4,2018,3,29,2018,3,29,Gazette Plan: PW 1468. 
+Perak,"Larut, Matang, dan Selama",Batu Kurau,799,Bintang Hijau,,3209,2018,3,29,2018,3,29,"Gazette Plan: PW 1470, 1471, 1472, 1473. "
+Perak,Kuala Kangsar,Pulau Kamiri,1055,Piah,,7.92,2018,4,12,2018,4,12,Gazette Plan: PW 4628. 
+Kedah,Sik,Sok,292,Bukit Saiong,,18.29,2018,4,12,2012,12,13,Gazette Plan: PW 50494. 
+Terengganu,Kemaman,"Kertih, Kemasih",636,Bukit Palus,,60,2018,5,24,2016,8,10,Gazette Plan: PW 1042. 
+Kedah,Sik,Jeneri,451,Gunung Ternas,,13.5476,2018,6,7,2016,1,6,Gazette Plan: PW 1261. 
+Johor,Segamat,Bekok,2527,Labis,,83.81,2018,6,7,2018,6,7,Gazette Plan: PW 3342. 
+Johor,Segamat,Bekok,2526,Labis,,210.27,2018,6,7,2018,6,7,Gazette Plan: PW 3341. 
+Pahang,Rompin,Keratong,896,Sungai Pukin Tambahan,25.65,,2018,7,5,2018,7,5,Gazette Plan: PW 5325. 
+Pahang,Rompin,Keratong,897,Bukit Ibam,,25.49,2018,7,5,2018,7,5,Gazette Plan: PA 282261. 
+Perak,Batang Padang,Bidor,1822,Sungai Chikus,,143.673,2018,7,5,2018,7,5,Gazette Plan: PW 4600. 
+Perak,Batang Padang,Chenderiang,1821,Bukit Tapah,,208.82,2018,7,5,2018,7,5,Gazette Plan: PW 2084. 
+Pahang,Kuantan,Sungai Karang,1052,Balok Tambahan,60.79,,2018,7,19,2018,7,19,Gazette Plan: PW 5327. 
+Perak,Manjung,Lumut,1831,Sungai Pinang,,16.187,2018,7,19,2018,7,19,Gazette Plan: PW 4376. 
+Pahang,Rompin,Keratong,1053,Bukit Ibam,,60.54,2018,7,19,2018,7,19,Gazette Plan: PA 283408. 
+Terengganu,Dungun,Hulu Paka,936,Jengai,,34.13,2018,8,16,2016,11,16,Gazette Plan: PW 1044. 
+Pahang,Jerantut,Ulu Tembeling,1225,Gunung Aais Tambahan,57.54,,2018,8,30,2018,8,30,Gazette Plan: PW 5328. 
+Perak,"Larut, Matang, dan Selama",Sungai Tinggi,2306,Bubu,,15.3147,2018,8,30,2018,8,30,"Gazette Plan: PW 4592, 4656m 4574m 4576, 4588, 4692. "
+Pahang,Jerantut,Kuala Tembeling,1226,Som,,57.51,2018,8,30,2018,8,30,Gazette Plan: PA 271778. 
+Selangor,Gombak,Rawang,3965,Rantau Panjang,,1.549,2018,10,25,2018,10,25,Gazette Plan: PW 1992. 
+Perak,Kuala Kangsar,Lubok Merbau,3003,Bintang Hijau,,8.924,2018,10,25,2018,10,25,Gazette Plan: PW 4813. The exact same info is repeated in Gazette #2871 (2018)
+Perak,Kuala Kangsar,Lubok Merbau,2871,Bintang Hijau,,8.924,2018,10,25,2018,10,25,Gazette Plan: PW 4813. The exact same info is repeated in Gazette #3003 (2018)
+Perak,Kangsar,Senggang,3267,Bubu,,13.519,2018,11,8,2018,11,8,Gazette Plan: PW 4688. 
+Perak,Hulu Perak,Kenering,3555,Papulut,,21.063,2018,12,20,2018,12,20,Gazette Plan: PW 4581. 
+Terengganu,Setiu,Hulu Nerus,1431,Hulu Nerus,,191,2018,12,20,1972,8,17,Gazette Plan: PW 1049. 
+Terengganu,Setiu,Hulu Nerus,1431,Hulu Nerus,,202.95,2018,12,20,1972,8,17,Gazette Plan: PW 1048. Excision of 405.9 across two reserves - Hulu Nerus and Hulu Setiu. I assigned half to each reserve.
+Terengganu,Setiu,Hulu Setiu,1431,Hulu Setiu,,202.95,2018,12,20,1972,8,17,Gazette Plan: PW 1048. Excision of 405.9 across two reserves - Hulu Nerus and Hulu Setiu. I assigned half to each reserve.
+Terengganu,Hulu Terengganu,Hulu Terengganu,1431,Petuang,,1855,2018,12,20,1972,8,17,Gazette Plan: PW 1047. 
+Johor,Kota Tinggi,Ulu Sungai Johor,1,Kluang Tambahan,1900.8,,2019,1,3,2019,1,3,Gazette Plan: PW 50099. 
+Kelantan,Gua Musang,Ulu Nenggiri,96,Gunong Chamah,16516.449,,2019,1,17,2017,4,12,"Gazette Plan: PW 965. PT 7731, PT 7732"
+Pahang,Lipis,Batu Yon,200,Ulu Jelai Tambahan,108.6,,2019,2,14,2019,2,14,Gazette Plan: PW 5310. Reserve renamed from Hulu Jelai Tambahan to Ulu Jelai Tambahan (more recent spelling)
+Pahang,Lipis,Hulu Jelai,201,Ulu Jelai Tambahan,,108.5,2019,2,14,2019,2,14,Gazette Plan: PA 270540. Reserve renamed from Hulu Jelai Tambahan to Ulu Jelai Tambahan (more recent spelling)
+Terengganu,Dungun,Hulu Paka,537,Jengai,,54.98,2019,4,25,2016,9,28,Gazette Plan: PA 236998. 
+Terengganu,Dungun,Hulu Paka,538,Jengai,,55.08,2019,4,25,2016,9,28,Gazette Plan: PA 238926. 
+Pahang,Jerantut,Ulu Tembeling,664,Gunung Aais Tambahan,40.42,,2019,5,9,2019,5,9,Gazette Plan: PW 5346. 
+Pahang,Raub,Semantan Ulu,666,Batu Talam,,17.84,2019,5,9,2019,5,9,Gazette Plan: PA 285650. 
+Pahang,Rompin,Keratong,665,Bukit Ibam,,40.48,2019,5,9,2019,5,9,Gazette Plan: PA 284837. 
+Negeri Sembilan,Jelebu,Triang Ilir,207,Pasoh,,243.83,2019,5,9,2019,5,9,Gazette Plan: PW 5616. 
+Pahang,Raub,Teras,809,Batu Talam Tambahan,2.08,,2019,5,23,2019,5,23,Gazette Plan: PW 5312. 
+Pahang,Raub,Hulu Dong,811,Hulu Dong,,1.027,2019,5,23,2019,5,23,Gazette Plan: PW 5311. Excision of 2.054 ha across two reserves - Hulu Dong and Lata Jarum. I assign half to each reserve.
+Pahang,Raub,Hulu Dong,811,Lata Jarum,,1.027,2019,5,23,2019,5,23,Gazette Plan: PW 5311. Excision of 2.054 ha across two reserves - Hulu Dong and Lata Jarum. I assign half to each reserve.
+Perak,Kuala Kangsar,Sayung ,820,Bubu,,101.7,2019,5,23,2019,5,23,Gazette Plan: PA 153148. 
+Negeri Sembilan,Jelebu,Pertang,323,Triang,,40.47,2019,6,20,2019,6,20,Gazette Plan: PW 5640. 
+Terengganu,Dungun,Hulu Paka,830,Jengai,,53.49,2019,7,4,2016,9,28,Gazette Plan: PW 1050. 
+Pahang,Rompin,Keratong,1210,Bukit Ibam,,39.86,2019,7,18,2019,7,18,Gazette Plan: PA 287662. 
+Pahang,Jerantut,Kuala Tembeling,1211,Som,,60.75,2019,7,18,2019,7,18,Gazette Plan: PA 287623. 
+Perak,Kampar,Teja,1203,Bukit Kinta,,202.34,2019,7,18,2019,7,18,Gazette Plan: PW 4871. 
+Pahang,Raub,Semantan Ulu,1309,Tersang,,166.3,2019,8,1,2019,8,1,Gazette Plan: PW 5323. 
+Kelantan,Gua Musang,Ulu Nenggiri,1383,Berangkat,,1503.407,2019,8,15,2019,2,13,Gazette Plan: PW 1682. PT 7812
+Perlis,Kuala Perlis,Kuala Perlis,65,Pulau Ketam (Perlis),12.87,,2019,8,29,2019,8,29,"Gazette Plan: PW 1503. I added ""Perlis"" to differentiate from the Selangor reserve"
+Pahang,Raub,Batu Talam,1691,Tersang,,148.12,2019,9,26,2019,9,26,Gazette Plan: PW 5363. 
+Johor,Kluang,Renggam,3953,Renggam,,63.5,2019,10,10,2019,10,10,Gazette Plan: PW 2660. 
+Pahang,Lipis,Kechau,2035,Chuat Tambahan,101.21,,2019,10,24,2019,10,24,Gazette Plan: PW 5366. 
+Pahang,Lipis,Kechau,2036,Chuat Tambahan,40.09,,2019,10,24,2019,10,24,Gazette Plan: PW 5369. 
+Pahang,Lipis,Kechau,2034,Chuat Tambahan,41.315,,2019,10,24,2019,10,24,Gazette Plan: PW 5370. 
+Perak,Kinta,Hulu Kinta,2039,Kledang Saiong,,18.62,2019,10,24,2019,10,24,Gazette Plan: PW 4866. 
+Pahang,Lipis,Telang,2038,Tersang,,40.36,2019,10,24,2019,10,24,Gazette Plan: PA 287289. 
+Pahang,Jerantut,Ulu Cheka,2037,Jerantut,,40.49,2019,10,24,2019,10,24,Gazette Plan: PA 287097. 
+Pahang,Lipis,Telang,2039,Tersang,,101.2,2019,10,24,2019,10,24,Gazette Plan: PA 288203. 
+Pahang,Lipis,Kechau,2311,Chuat Tambahan,35.486,,2019,11,7,2019,11,7,Gazette Plan: PW 5373. 
+Pahang,Jerantut,Kuala Tembeling,2312,Som,,35.53,2019,11,7,2019,11,7,"Gazette Plan: PA 288184, PA 288192. "
+Pahang,Lipis,Telang,2577,Tenggalan,2351.85,,2019,11,21,2019,11,21,Gazette Plan: PW 5353. 
+Pahang,Kuantan,Kuala Kuantan,2578,Paya Laut Sungai Soi,11.23,,2019,11,21,2019,11,21,Gazette Plan: PW 5358. 
+Pahang,Rompin,Keratong,2771,Lesung Tambahan,82.789,,2019,12,19,2019,12,19,Gazette Plan: PW 5371. 
+Pahang,Rompin,Keratong,2772,Lesong,,81.99,2019,12,19,2019,12,19,Gazette Plan: PW 5375. 
+Negeri Sembilan,Kuala Pilah,Langkap,767,Pelangai,,360,2019,12,19,2019,12,19,"Gazette Plan: PW 1360. Reserve renamed from Plangei to Pelangai, as Plangei is assumed to be a typo"
+Perak,Manjung,Lumut,2,Lumut,,5.254,2020,1,2,2020,1,2,Gazette Plan: PW 4210. 
+Pahang,Raub,Gali,258,Lakum Tambahan,224.264,,2020,1,30,2020,1,30,Gazette Plan: PW 5354. 
+Pahang,Kuantan,Kuala Kuantan,260,Paya Laut Kuantan,,2.241,2020,1,30,2020,1,30,Gazette Plan: PW 5214. 
+Pahang,Kuantan,Kuala Kuantan,262,Berkelah,,4.927,2020,1,30,2020,1,30,Gazette Plan: PW 5347. 
+Pahang,Kuantan,Kuala Kuantan,261,Paya Laut Kuantan,,12.96,2020,1,30,2020,1,30,Gazette Plan: PW 5356. 
+Pahang,Raub,Dong,259,Bukit Taching,,202.3,2020,1,30,2020,1,30,Gazette Plan: PW 5333. Reserve renamed from Tacing to Taching (more recent spelling)
+Pahang,Maran,Chenor,263,Jengka,,465.75,2020,1,30,2020,1,30,Gazette Plan: PW 5357. 
+Pahang,Kuantan,Kuala Kuantan,487,Paya Laut Kuantan,,2.241,2020,2,13,2020,2,13,Gazette Plan: PW 5214. 
+Pahang,Rompin,Keratong,488,Bukit Ibam,,80.89,2020,2,13,2020,2,13,Gazette Plan: PA 289493. 
+Pahang,Lipis,Kechau,626,Chuat Tambahan,101.07,,2020,2,27,2020,2,27,Gazette Plan: PW 5381. 
+Pahang,Rompin,Keratong,625,Pukin Tambahan,40.66,,2020,2,27,2020,2,27,Gazette Plan: PW 5414. 
+Pahang,Rompin,Rompin,624,Lesung Tambahan,202.3,,2020,2,27,2020,2,27,Gazette Plan: PW 5415. 
+Pahang,Jerantut,Kuala Tembeling,628,Som,,40.66,2020,2,27,2020,2,27,Gazette Plan: PA 290078. 
+Pahang,Lipis,Telang,627,Tersang,,101.2,2020,2,27,2020,2,27,Gazette Plan: PA 288131. 
+Pahang,Rompin,Keratong,630,Bukit Ibam,,192.7,2020,2,27,2020,2,27,Gazette Plan: PW 289295. 
+Pahang,Rompin,Keratong,629,Bukit Ibam,,202.5,2020,2,27,2020,2,27,"Gazette Plan: PA 144307, PA 144308. "
+Kelantan,Gua Musang,Ulu Nenggiri,414,Perias,,2731,2020,3,12,2019,8,28,"Gazette Plan: PW 398. PT 7841, PT 7841, PT7847, PT 342, PT 5"
+Kelantan,Gua Musang,Ulu Nenggiri,415,Perias,,4284,2020,3,12,2019,12,18,"Gazette Plan: PW 398. PT 7853, PT 7, PT 8"
+Pulau Pinang,Timur Laut,13,322,Pulau Jerejak,285.84,,2020,3,26,2020,3,26,
+Pahang,Maran,Luit,899,Berkelah Tambahan,260.51,,2020,3,26,2020,3,26,Gazette Plan: PW 5413. 
+Pahang,Maran,Luit,900,Berkelah,,260.51,2020,3,26,2020,3,26,Gazette Plan: PW 5409. 
+Pahang,Maran,Luit,901,Berkelah Tambahan,,260.51,2020,3,26,2020,3,26,Gazette Plan: PW 5412. 
+Pahang,Kuantan,Sungai Karang,1061,Balok,,25.45,2020,4,23,2020,4,23,Gazette Plan: PW 5332. 
+Kelantan,Machang,Gading Galoh,644,Chabang Tongkat,,2.988,2020,6,4,2018,9,26,Gazette Plan: PW 1689. PT 1284
+Kelantan,Pasir Puteh,Bukit Merbau,644,Chabang Tongkat,,43.55,2020,6,4,2018,9,26,Gazette Plan: PW 1689. PT 4859
+Negeri Sembilan,Seremban,Lenggeng,270,Setul,,12.2,2020,8,13,2020,8,13,Gazette Plan: PW 5698. 
+Negeri Sembilan,Seremban,Lenggeng,271,Petai,,28.344,2020,8,13,2020,8,13,Gazette Plan: PW 5695. 
+Negeri Sembilan,Jelebu,Triang Ilir,314,X - NOT STATED,243.87,,2020,8,27,2020,8,27,"Gazette Plan: PW 5614. Forest reserve NOT STATED, but said to be a replacement for an excision. It's likely Pasoh because an identical area was excised from Pasoh on 9 Ma y2019."
+Pahang,Bentong,Bentong,1807,Lentang Tambahan,125.5,,2020,9,24,2020,9,24,Gazette Plan: PW 5472. 
+Pahang,Bentong,Bentong,1808,Bukit Tinggi,,125.5,2020,9,24,2020,9,24,Gazette Plan: PW 5471. 
+Pahang,Lipis,Kechau,1942,Chuat Tambahan,198.6,,2020,10,8,2020,10,8,Gazette Plan: PW 5495. 
+Perak,Manjung,Lumut,1807,Segari Melintang,,41,2020,10,8,2020,10,8,Gazette Plan: PW 2018. 
+Pahang,Rompin,Keratong,1943,Bukit Ibam,,198.6,2020,10,8,2020,10,8,Gazette Plan: PA 289440. 
+Kelantan,Gua Musang,Relai,1370,Relai,,1183.5,2020,10,8,2019,10,9,Gazette Plan: PW 269. 
+Pahang,Lipis,Kechau,2356,Chuat Tambahan,59.63,,2020,11,5,2020,11,5,Gazette Plan: PW 5494. 
+Pahang,Lipis,Batu Yon,2357,Ulu Jelai,,59.63,2020,11,5,2020,11,5,Gazette Plan: PA 291427. 
+Pahang,Rompin,Keratong,2489,Bukit Ibam,,365.31,2020,11,19,2020,11,19,Gazette Plan: PW 5393. 
+Pahang,Rompin,Keratong,2490,Bukit Ibam,,1214.31,2020,11,19,2020,11,19,Gazette Plan: PW 5367. 
+Pahang,Kuantan,Kuala Kuantan,2487,Berkelah,,1214.319,2020,11,19,2020,11,19,Gazette Plan: PW 5368. 
+Pahang,Rompin,Keratong,2488,Bukit Ibam,,8494.08,2020,11,19,2020,11,19,Gazette Plan: PW 5364. 
+Perlis,Kuala Perlis,Kuala Perlis,105,Pulau Ketam Tambahan,0.4354,,2020,12,3,2020,12,3,Gazette Plan: PW 1506. 
+Pahang,Kuantan,Kuala Kuantan,2648,Beserah,,0.0105,2020,12,3,2020,12,3,Gazette Plan: PA 290688. I renamed from Berserah to Beserah (most recent spelling)
+Pahang,Bentong,Bentong,2647,Bukit Tinggi,,36.33,2020,12,3,2020,12,3,Gazette Plan: PW 5440. 
+Perak,Hulu Perak,Kenering,2477,Kenderong,,2.41,2020,12,17,2020,12,17,Gazette Plan: PW 5074. 
+Perak,Kinta,Sungai Raya,5,Bukit Kinta,,58.15,2021,1,7,2021,1,7,Gazette Plan: PA 167852. 
+Pahang,Lipis,Kechau,88,Chuat Tambahan,1000,,2021,1,21,2021,1,21,"Gazette Plan: PW 5498. Gazette states ""1.000 hektar"" but I assume it's supposed to be 1,000 ha"
+Kelantan,Lojing,Sigar,18,Lojing,,273.042,2021,1,21,2020,11,18,"Gazette Plan: PW 1731. PT 1018, 1019"
+Perak,Hulu Perak,Kerunai,496,Kenderong,,245,2021,2,18,2021,2,18,Gazette Plan: PW 5152. 
+Perak,Kuala Kangsar,Pulau Kamiri,497,Korbu,,408.73,2021,2,18,2021,2,18,Gazette Plan: PW 5238. 
+Pahang,Kuantan,Ulu Lepar,517,Berkelah Tambahan,45.8,,2021,3,18,2021,3,18,Gazette Plan: PW 5485. 
+Pahang,Kuantan,Ulu Lepar,517,Lepar Tambahan,81.7,,2021,3,18,2021,3,18,Gazette Plan: PW 5485. 
+Pahang,Kuantan,Ulu Lepar,517,Bungor Tambahan,196,,2021,3,18,2021,3,18,Gazette Plan: PW 5485. 
+Johor,Mersing,Tenggaroh,646,Tenggaroh,,82.89,2021,3,18,2021,3,18,Gazette Plan: PA 232822. PT 3543
+Perak,Hulu Perak,Belukar Semang,680,Kenderong,245,,2021,4,1,2021,4,1,Gazette Plan: PW 5222. 
+Pahang,Raub,Gali,620,Rotan Tunggal,40.47,,2021,4,1,2021,4,1,Gazette Plan: PW 5508. 
+Pahang,Cameron Highlands,Ringlet,621,Ringlet,,330.3,2021,4,1,2021,4,1,Gazette Plan: PW 5515. 
+Perlis,Kechor,Kechor,28,Bukit Besi Hangit,76.33,,2021,5,13,2021,5,13,Gazette Plan: PW 1300. 
+Perlis,Chuping,Chuping,29,Bukit Jernih ,33.78,,2021,5,13,2021,5,13,Gazette Plan: PW 1301. 
+Pahang,Jerantut,Tebing Tinggi,894,Jerantut Tambahan,553.4,,2021,5,13,2021,5,13,Gazette Plan: PW 5308. 
+Kedah,Sik,Sik,456,Rimba Teloi,,95.08,2021,5,13,2016,1,6,Gazette Plan: PW 50536. 
+Johor,Johor Bahru,Jelutong,1480,Sungei Pulai,,231.7,2021,5,13,2021,5,13,Gazette Plan: PA 245322. 
+Pahang,Kuantan,Kuala Kuantan,1042,Bukit Kuantan,,202.3,2021,6,10,2021,6,10,Gazette Plan: PW 5553. 
+Pahang,Rompin,Keratong,1052,Pukin Tambahan,32.77,,2021,6,24,2021,6,24,Gazette Plan: PW 5542. 
+Pahang,Rompin,Keratong,1053,Bukit Ibam Tambahan,40.84,,2021,6,24,2021,6,24,Gazette Plan: PW 5543. 
+Pahang,Pekan,Penyor,1054,Chini,,32.75,2021,6,24,2021,6,24,Gazette Plan: PA 294133. 
+Pahang,Pekan,Penyor,1055,Chini,,40.63,2021,6,24,2021,6,24,Gazette Plan: PA 293887. 
+Kelantan,Tanah Merah,Sokor,818,Sokor Taku,,223.2,2021,7,8,2019,10,23,Gazette Plan: PW 1734. 
+Kelantan,Tanah Merah,Jedok,820,Jedok,,531.963,2021,7,8,2020,8,19,"Gazette Plan: PG 142, CP 1999. PT 5700, PT 5701, PT 3722 converted to Sultanate Land #821"
+Kelantan,Gua Musang,Relai,819,Lebir,,716,2021,7,8,2020,6,3,Gazette Plan: PW 1721. 
+Kelantan,Jeli,Lubok Bongor,829,Gunong Basor,,1235.076,2021,7,8,2021,2,24,Gazette Plan: PW 387. I renamed from Gunung Basur to Gunong Basor (more recent spelling)
+Kelantan,Gua Musang,Relai,830,Relai,,1487.008,2021,7,8,2021,2,24,Gazette Plan: PW 269. 
+Pahang,Pekan,Penyor,1232,Chini,6502.8,,2021,8,5,2021,8,5,Gazette Plan: PW 5559. 
+Pahang,Kuantan,Sungai Karang,1233,Balok,,3151.29,2021,8,5,2021,8,5,Gazette Plan: PW 5558. 
+Selangor,Hulu Langat,Semenyih,1814,Bukit Broga,63.88,,2021,8,12,2021,8,12,Gazette Plan: PW 3019. 
+Selangor,Hulu Selangor,Buloh Telor,1813,Buloh Telor Timur,57.18,,2021,8,12,2021,8,12,Gazette Plan: PW 3020. 
+Selangor,Hulu Selangor,Buloh Telor,1812,Buloh Telor Barat,149.96,,2021,8,12,2021,8,12,Gazette Plan: PW 3020. 
+Selangor,Sabak Bernam,Sungai Panjang,1811,Sungai Panjang,308.62,,2021,8,12,2021,8,12,Gazette Plan: PW 3021. 
+Pahang,Kuantan,Sungai Karang,1325,Pantai Chendor,25.258,,2021,8,12,2021,8,12,Gazette Plan: PW 5372. 
+Pahang,Cameron Highlands,Ulu Telom,1326,Sungai Ichat,121.4,,2021,8,12,2021,8,12,Gazette Plan: PW 5506. 
+Selangor,Kuala Langat,Tanjong Duabelas,1810,Kuala Langat Utara,,536.7,2021,8,12,2021,8,12,Gazette Plan: PW 3018. 
+Pahang,Kuantan,Sungai Karang,1355,Pantai Chendor,25.258,,2021,8,19,2021,8,19,Gazette Plan: PW 5372. 
+Pahang,Ulu Telom,Cameron Highlands,1356,Sungai Ichat,121.4,,2021,8,19,2021,8,19,Gazette Plan: PW 5506. 
+Negeri Sembilan,Kenaboi,Jelebu,616,Kenaboi,,1,2021,9,15,2021,9,15,Gazette Plan: GP 5835. 
+Perak,Bagan Tiang,Kerian,1730,Kuala Bagan Tiang,16.187,,2021,9,16,2021,9,16,Gazette Plan: PW 5242. 
+Perak,Manjung,Pengkalan Baharu,1731,Sungai Batu,51.992,,2021,9,16,2021,9,16,Gazette Plan: PW 5254. 
+Kuala Lumpur,Kuala Lumpur,Petaling,495,Sungai Besi,23.306,,2021,10,8,2021,10,8,Gazette Plan: PW 1016. 
+Kuala Lumpur,Kuala Lumpur,Cheras,494,Bukit Sungei Puteh (Kuala Lumpur),,7.481,2021,10,8,2021,10,8,"Gazette Plan: PA 1108588. Forest reserve was originally gazetted in Selangor, 1933"
+Pahang,Sabai,Bentong,1615,Lentang Tambahan,173.8,,2021,10,14,2021,10,14,Gazette Plan: PW 5480. 
+Pahang,Bentong,Bentong,1615,Lentang Tambahan,29.74,,2021,10,14,2021,10,14,Gazette Plan: PW 5481. 
+Kedah,Pulai,Baling,859,Gunung Inas,,15.07,2021,10,14,2014,12,10,Gazette Plan: PW 50564. 
+Pahang,Bentong,Bentong,1616,Bukit Tinggi,,202.2,2021,10,14,2021,10,14,Gazette Plan: PW 5479. 
+Johor,Johor Bahru,Tanjung Kupang,3137,Sungei Pulai,,56.71,2021,11,11,2021,11,11,Gazette Plan: PA 245318. 
+Perak,Senggang,Kuala Kangsar,2068,Bubu,,404.6,2021,11,18,2021,11,18,Gazette Plan: PW 5253. 
+Pahang,Ulu Telom,Cameron Highlands,1903,Sungai Ikan,7.085,,2021,11,25,2021,11,25,Gazette Plan: PW 5570. 
+Perak,Kinta,Sungai Raya,2214,Kinta Tambahan,40.715,,2021,12,9,2021,12,9,Gazette Plan: PW 5245. 
+Kelantan,Gua Musang,Relai,1385,Lebir,,716,2021,12,16,2020,6,3,Gazette Plan: PW 1721. 
+Perlis,Titi Tinggi,Titi Tinggi,91,Wang Mu,,2895,2021,12,16,2021,12,16,Gazette Plan: PW 1284. Revoked the gazettement in 1997
+Perak,Manjung,Lumut,2429,Pangkor Utara,,1.584,2021,12,23,2021,12,23,Gazette Plan: PW 5423. 
+Pahang,Lipis,Batu Yon,1,Persit,649.27,,2022,1,6,2022,1,6,Gazette Plan: PW 5580. 
+Pahang,Rompin,Endau,146,Lesung Tambahan,150,,2022,1,27,2022,1,27,Gazette Plan: PW 5572. Reserve renamed from Lesong Tambahan to Lesung (most recent spelling)
+Pahang,Rompin,Keratong,148,Ibam Tambahan,,150,2022,1,27,2022,1,27,Gazette Plan: PA 293329. 
+Perak,Hulu Perak,Lenggong,519,Piah,,123.5,2022,2,3,2022,2,3,Gazette Plan: PW 3852. 
+Kedah,Langkawi,Ulu Melaka,244,Gunung Raya,,0.8305,2022,2,17,2019,12,11,Gazette Plan: PT 2513. 
+Johor,Kulai,Sedenak,838,Sedenak,,46.66,2022,2,24,2022,2,24,Gazette Plan: PW 50170. 
+Perak,Manjung,"Lumut, Pengkalan Baharu",997,Changkat Keruing,34.64,,2022,3,17,2022,3,17,Gazette Plan: PW 5251. 
+Pahang,Lipis,Kechau,627,Chuat Tambahan,1.002,,2022,3,31,2022,3,31,Gazette Plan: PW 5505. 
+Pahang,Lipis,Ulu Jelai,629,Ulu Jelai,,1,2022,3,31,2022,3,31,Gazette Plan: PW 5564. 
+Pahang,Lipis,Ulu Jelai,630,Ulu Jelai,,1.0074,2022,3,31,2022,3,31,Gazette Plan: PA 292603. 
+Terengganu,Dungun,Jerangau,468,Besul,,37.94,2022,4,7,2021,12,1,Gazette Plan: PW 1103. 
+Kedah,Kuala Muda,Bukit Meriam,452,Merbok Tambahan,323.27,,2022,4,14,2022,4,14,Gazette Plan: PW 50800. 
+Kedah,Sik,Sok,454,Rimba Teloi,590.5,,2022,4,14,2022,4,14,Gazette Plan: PW 50801. 
+Kedah,Langkawi,Langkawi,457,Pulau Dayang Bunting Tambahan,4.19,,2022,4,14,2022,4,14,Gazette Plan: PW 50802. 
+Kedah,Yan,Yan,455,Pulau Songsong,22.3,,2022,4,14,2022,4,14,Gazette Plan: PW 50803. 
+Kedah,Yan,Yan,458,Pulau Bidan,33.85,,2022,4,14,2022,4,14,Gazette Plan: PW 50804. 
+Kedah,Sik,Jeneri,453,Terenas Tambahan,1134.53,,2022,4,14,2022,4,14,Gazette Plan: PW 50805. 
+Kedah,Kubang Pasu,Jerlun,456,Jerlun,185.74,,2022,4,14,2022,4,14,Gazette Plan: PW 50806. 
+Pahang,Cameron Highlands,Ulu Tenom,871,Sungai Telom,91.598,,2022,4,28,2022,4,28,"Gazette Plan: PW 5585,5586,5587,5595. "
+Pahang,Cameron Highlands,Ulu Tenom,869,Sungai Lemoi,0.233,,2022,4,28,2022,4,28,Gazette Plan: PW 5588. 
+Pahang,Cameron Highlands,Tanah Rata,870,Bertam,127.55,,2022,4,28,2022,4,28,Gazette Plan: PW 5589-5594. 
+Johor,Mersing,Semborong,1589,Semberong Tambahan,,111,2022,4,28,2022,4,28,Gazette Plan: PA 243701. 
+Selangor,Petaling,Bukit Raja,1645,Bukit Cherakah,,406.22,2022,5,5,2000,11,20,Gazette Plan: PW 1443. 
+Perak,Bagan Datuk,Bagan Datuk,1754,Bakau Sungai Nipah,146.27,,2022,5,26,2022,5,26,Gazette Plan: PW 5326. 
+Perak,"Larut, Matang, dan Selama",Tupai,1753,Bukit Larut,296.86,,2022,5,26,2022,5,26,"Gazette Plan: PW 5330. Daerah changed to Larut, Matang dan Selama (more recent designation)"
+Perak,Manjung,Lumut,1752,Teluk Nipah,17.19,,2022,5,26,2022,5,26,Gazette Plan: PW 5333. 
+Pahang,Cameron Highlands,Ulu Telom,1101,Sungai Telom,91.598,,2022,5,26,2022,5,26,Gazette Plan: PW 5585-5595. 
+Pahang,Cameron Highlands,Ulu Telom,1099,Sungai Lemoi,0.233,,2022,5,26,2022,5,26,Gazette Plan: PW 5588. Cancelled by Gazette #1475 (2022)
+Pahang,Cameron Highlands,Tanah Rata,1100,Sungai Bertam,127.55,,2022,5,26,2022,5,26,Gazette Plan: PW 5589-5594. 
+Perak,Kuala Kangsar,Pulau Kamiri,1755,Korbu,,397.07,2022,5,26,2022,5,26,Gazette Plan: PW 5363. 
+Pahang,Lipis,Ulu Jelai,2,Ulu Jelai,,512.06,2022,5,26,2022,5,26,Gazette Plan: PW 5579. 
+Pahang,Lipis,Ulu Jelai,1179,Ulu Jelai Tambahan,8.305,,2022,6,2,2022,6,2,Gazette Plan: PW 5435. 
+Pahang,Lipis,Ulu Jelai,1180,Ulu Jelai Tambahan,,9.018,2022,6,2,2022,6,2,"Gazette Plan: PW 5523, 5524. "
+Pahang,Raub,Gali,1181,Bukit Kajang,,404.7,2022,6,2,2022,6,2,Gazette Plan: PW 5565. 
+Perlis,Titi Tinggi,Titi Tinggi,69,Rimba Mas-Mas,268.16,,2022,6,16,1987,11,1,Gazette Plan: PW 1520. 
+Pahang,Rompin,Keratong,1383,Ibam Tambahan,25,,2022,6,23,2022,6,23,Gazette Plan: PW 5584. 
+Pahang,Lipis,Tanjung Besar,1384,Benchah Tambahan,80.95,,2022,6,23,2022,6,23,Gazette Plan: PW 5596. 
+Pahang,Lipis,Telang,1385,Tersang,,80.95,2022,6,23,2022,6,23,Gazette Plan: PA 294394. 
+Pahang,Cameron Highlands,Ulu Telom,1472,Sungai Terla,11.098,,2022,6,30,2022,6,30,Gazette Plan: PW 5597-5600. 
+Pahang,Bera,Triang,1470,X - NOT STATED,78.68,,2022,6,30,2022,6,30,Gazette Plan: PW 5611. Forest reserve NOT STATED
+Pahang,Cameron Highlands,Ulu Tenom,1473,X - NOT STATED,558.231,,2022,6,30,2022,6,30,"Gazette Plan: PW 5612,5613,5615,5624. Forest reserve NOT STATED"
+Pahang,Raub,Bukit Fraser,1471,X - NOT STATED,105.43,,2022,6,30,2022,6,30,Gazette Plan: PW 5623. Forest reserve NOT STATED
+Pahang,Rompin,Endau,1474,X - NOT STATED,907.443,,2022,6,30,2022,6,30,"Gazette Plan: PW5603,5605,5610,5614,5616-5622. Forest reserve NOT STATED"
+Pahang,Cameron Highlands,Ulu Telom,1475,Sungai Lemoi,,0.233,2022,6,30,2022,6,30,
+Pahang,Rompin,Keratong,1534,Bukit Ibam,,25,2022,7,7,2022,7,7,Gazette Plan: PA 294760. 
+Perlis,Titi Tinggi,Titi Tinggi,84,Rimba Mas-Mas,,268.16,2022,7,7,2022,7,7,Gazette Plan: PW 1520. 
+Perlis,Kuala Perlis,Kuala Perlis,88,Bukit Papan,176.7,,2022,7,14,2022,7,14,Gazette Plan: PW 1511. 
+Johor,Segamat,Pogoh,2364,Pogoh Tambahan,367.65,,2022,7,21,2022,7,21,Gazette Plan: PW 50177. 
+Johor,Segamat,Chaah,2363,Maokil,,115.1,2022,7,21,2022,7,21,Gazette Plan: PW 50167. 
+Johor,Segamat,Chaah,2362,Maokil,,131.7,2022,7,21,2022,7,21,Gazette Plan: PW 50167. 
+Perak,Kuala Kangsar,Pulau Kamiri,2799,Korbu,,352.43,2022,7,21,2022,5,26,Gazette Plan: PW 5362. 
+Pahang,Cameron Highlands,Ulu Tenom,1775,Sungai Terla,2.939,,2022,7,28,2022,7,28,Gazette Plan: PW5601-5602. 
+Kelantan,Kuala Krai,Kuala Nal,1251,Sokor Taku,,189.9,2022,7,28,2020,2,19,Gazette Plan: PW 1775. 
+Perak,"Larut, Matang dan Selama",Hulu Ijok,3238,Hulu Ijok,364.3,,2022,8,18,2022,8,18,"Gazette Plan: PW 5374. Daerah changed to Larut, Matang dan Selama (more recent designation)"
+Kelantan,Gua Musang,Ulu Nenggiri,1471,Perias,2745,,2022,8,25,2021,2,24,"Gazette Plan: PW 1762, 1764, 1767, 1768. "
+Pahang,Rompin,Keratong,2272,Sungai Marong Tambahan,35.87,,2022,9,15,2022,9,15,Gazette Plan: PW 5562. 
+Pahang,Kuantan,Ulu Kuantan,2271,Sungai Lembing,38.68,,2022,9,15,2022,9,15,Gazette Plan: PW 5604. 
+Negeri Sembilan,Jelebu,Kenaboi,616,Kenaboi,,1,2022,9,15,2022,9,15,Gazette Plan: GP 5835. 
+Pahang,Rompin,Keratong,2273,Bukit Ibam,,27.09,2022,9,15,2022,9,15,Gazette Plan: PW 5560. 
+Perak,Muallim,Slim,3659,Bukit Slim Tambahan,27.92,,2022,9,22,2022,9,22,Gazette Plan: PW 5364. 
+Kelantan,Gua Musang,Relai,1838,Lebir,,253.47,2022,10,6,2022,5,11,Gazette Plan: PW 1782. 
+Perak,Hulu Perak,Temengor,3967,Amanjaya,,3.64,2022,10,13,2022,10,13,Gazette Plan: PA 171582. 
+Pahang,Lipis,Batu Yon,2681,X - NOT STATED,756.25,,2022,10,20,2022,10,20,Gazette Plan: PW 5640. Forest reserve NOT STATED
+Pahang,Bentong,Pelangai,2682,X - NOT STATED,52.38,,2022,10,20,2022,10,20,Gazette Plan: PW 5667. Forest reserve NOT STATED
+Pahang,Pekan,Temai,2683,Pekan Tambahan,8.091,,2022,10,20,2022,10,20,Gazette Plan: PW 5670. 
+Johor,Johor Bahru,Tanjung Kupang,4118,Pendas,,2.62,2022,10,20,2022,10,20,Gazette Plan: PW 3115. 
+Pahang,Kuantan,Gebeng,2684,Balok,,8.09,2022,10,20,2022,10,20,Gazette Plan: PW 5669. 
+Kelantan,Jeli,Belimbing,1995,Sultan Ismail Petra Ecosystem Protection Park,188.842,,2022,11,10,2022,11,10,"Gazette Plan: PT 6095 (A), 6094 (B), PT 6096 (C), 6092 (D/1), 6093 (D/2) . Stateland (188.842 ha) (along with 2390 ha of Gunung Basor PRF) converted into State Park"
+Perak,Kinta,Sungai Raya,4315,Gunung Rapat,28.07,,2022,11,24,2022,11,24,Gazette Plan: PW 5410. 
+Perak,Kuala Kangsar,Pulau Kamiri,4457,Korbu,,866.1,2022,12,1,2022,12,1,Gazette Plan: PW 5227. 
+Pahang,Kuantan,Penor,3091,Paya Laut Sungai Soi,10.54,,2022,12,8,2022,12,8,Gazette Plan: PW 5608. 
+Pulau Pinang,Barat Daya,"1, 7",1291,Pulau Betong,1.2251,,2022,12,15,2022,12,15,
+Pulau Pinang,Seberang Perai Utara,11,1291,Air Itam Dalam,22.085,,2022,12,15,2022,12,15,
+Pulau Pinang,Seberang Perai Tengah,12,1291,Juru,22.561,,2022,12,15,2022,12,15,
+Pulau Pinang,Seberang Perai Selatan,10,1291,Sungai Udang,55.36,,2022,12,15,2022,12,15,
+Pulau Pinang,Seberang Perai Utara,4,1291,Kuala Bekah,69.798,,2022,12,15,2022,12,15,
+Pulau Pinang,Seberang Perai Utara,1,1291,Pasir Gebu,127.585,,2022,12,15,2022,12,15,
+Pulau Pinang,Seberang Perai Utara,4,1291,Lahar Endin,129.107,,2022,12,15,2022,12,15,
+Pulau Pinang,Seberang Perai Selatan,10,1291,Sungai Chenaam,248.76,,2022,12,15,2022,12,15,
+Terengganu,Setiu,Hulu Nerus,1717,Hulu Nerus,,250,2022,12,15,2022,7,22,Gazette Plan: PA 248237. 
+Perlis,Padang Siding,Padang Siding,179,Bukit Tung Tung,48.2,,2022,12,29,1987,11,1,Gazette Plan: PW 1526. 
+Perlis,Padang Siding,Padang Siding,178,Bukit Namera,26.81,,2022,12,29,1987,11,1,Gazette Plan: PW 1527. 
+Terengganu,Marang,Merchang,18,Paya Gelam,,103.8,2023,1,26,2020,7,22,Gazette Plan: PW 1124. Corrected by Gazette #710 (2023)
+Perak,Hulu Perak,Kenering,359,Belukar Semang,,32.51,2023,2,9,2023,2,9,Gazette Plan: PW 5401. 
+Perak,Hulu Perak,Kenering,358,Bintang Hijau,,74.36,2023,2,9,2023,2,9,Gazette Plan: PW 5400. 
+Perak,Hulu Perak,Kenering,360,Kenderong,,100.5,2023,2,9,2023,2,9,Gazette Plan: PW 5449. 
+Pahang,Maran,Luit,359,Papai Tambahan,69,,2023,3,2,2023,3,2,Gazette Plan: PW 5689. 
+Pahang,Maran,Luit,360,Ulu Luit,,68.7,2023,3,2,2023,3,2,Gazette Plan: PA 298616. 
+Perlis,Titi Tinggi,Titi Tinggi,38,Wang Mu,4.932,,2023,3,9,2023,3,9,Gazette Plan: PW 1518. 
+Perlis,Titi Tinggi,Titi Tinggi,39,Mata Ayer,15.53,,2023,3,9,2023,3,9,Gazette Plan: PW 1518. 
+Perak,Manjung,Lekir,753,Teluk Tiga,11.4,,2023,3,9,2023,3,9,Gazette Plan: PW 5479. 
+Pahang,Kuantan,Kuantan,420,Beserah,,25,2023,3,9,2023,3,9,Gazette Plan: PW 5690. 
+Kedah,Pendang,Padang Peliang,309,Bukit Perak,,709.34,2023,3,9,2016,1,6,Gazette Plan: PW 50460. 
+Pahang,Kuantan,Kuantan,594,Beserah,38.83,,2023,3,23,2023,3,23,Gazette Plan: PW 5694. 
+Perak,Manjung,Lumut,1086,Lumut,,3.238,2023,3,23,2023,3,23,Gazette Plan: PW 5309. 
+Perak,Batang Padang,Bidor,1213,Bukit Tapah Tambahan,119.209,,2023,3,30,2023,3,30,Gazette Plan: PW 5480. 
+Perak,Kampar,Kampar,1347,Kampar,190.54,,2023,4,6,2023,4,6,Gazette Plan: PW 5404. 
+Perak,Hulu Perak,Pengkalan Hulu,1346,Lepang Nenering,188.3,,2023,4,6,2023,4,6,Gazette Plan: PW 5484. 
+Pahang,Rompin,Endau,821,Endau Tambahan,40.49,,2023,4,20,2023,4,20,Gazette Plan: PW 5696. 
+Pahang,Lipis,Batu Yon,822,Ulu Jelai,,20.245,2023,4,20,2023,4,20,Gazette Plan: PA 298222. Excision of 40.49 across two reserves - Ulu Jelai and Yu. I assign half to each reserve.
+Pahang,Lipis,Batu Yon,822,Yu,,20.245,2023,4,20,2023,4,20,Gazette Plan: PA 298222. Excision of 40.49 across two reserves - Ulu Jelai and Yu. I assign half to each reserve.
+Kelantan,Tanah Merah,Sokor,624,Sokor Taku,,160,2023,5,4,2021,10,6,Gazette Plan: PW 1780. 
+Kelantan,Gua Musang,Relai,623,Relai,,200,2023,5,4,2021,5,19,Gazette Plan: PW 1847. 
+Perak,Manjung,Lumut,1680,Teluk Meroh,,114.3,2023,5,11,2023,5,11,Gazette Plan: PW 5491. I renamed from Muroh to Meroh (most recent spelling)
+Perak,Manjung,Pengkalan Baharu,1681,Segari Melintang,,548.1,2023,5,11,2023,5,11,Gazette Plan: PW 5504. 
+Perak,Hulu Perak,Durian Pipit,1777,Durian Pipit,999.85,,2023,5,18,2023,5,18,Gazette Plan: PW 5485. 
+Perak,Kinta,Sungai Raya,1778,Sinju,34.05,,2023,5,18,2023,5,18,Gazette Plan: PW 5510. 
+Perak,Hulu Perak,Kerunai,2209,Gerik,216.5,,2023,6,8,2023,6,8,Gazette Plan: PW 5512. 
+Perak,Hulu Perak,Temengor,2861,Gerik,794.9,,2023,7,6,2023,7,6,Gazette Plan: PW 5530. 
+Johor,Tangkak,Tangkak,4068,Gunung Ledang,,1.5781,2023,7,6,2023,7,6,Gazette Plan: PA 235508. I renamed from Gunong to Gunung (more recent spelling)
+Kelantan,Gua Musang,Relai,1146,Relai,,17,2023,7,20,2021,5,5,Gazette Plan: PW 1778. 
+Kelantan,Gua Musang,Relai,1145,Relai,,70,2023,7,20,2021,5,5,Gazette Plan: PW 1843. 
+Kelantan,Tanah Merah,Sokor,1144,Sokor Taku,,198.2,2023,7,20,2020,2,19,Gazette Plan: PW 1863. 
+Kelantan,Gua Musang,Pulai,1147,Ulu Galas,,275.9,2023,7,20,2021,5,10,Gazette Plan: PW 1835. 
+Selangor,Kuala Langat,Tanjong Duabelas,2395,Tanjong Duabelas,486.07,,2023,7,27,2023,7,27,Gazette Plan: PW 3046. 
+Terengganu,Dungun,Kumpal,1303,Bukit Bauk,,257.888,2023,7,27,2012,9,26,Gazette Plan: PW 1122. Corrected by Gazette #1553 (2024) in daerah name
+Perak,Hulu Perak,Temengor,3406,Temengor,1975,,2023,8,10,2023,8,10,Gazette Plan: PW 5492. 
+Perak,Bagan Datuk,Bagan Datuk,3405,Paya Bakau Beting Beras Basah Bagan Datuk Tambahan,123.4,,2023,8,10,2023,8,10,Gazette Plan: PW 5513. 
+Pahang,Lipis,Kechau,1454,Chuat Tambahan,40.46,,2023,8,10,2023,8,10,"Gazette Plan: PW 5712. Reserve renamed from Kg Chuat Tambahan to Chuat Tambahan; there has never been a mention of ""Kg Chuat Tambahan""."
+Pahang,Lipis,Telang,1455,Aur Gading,,40.46,2023,8,10,2023,8,10,Gazette Plan: PW 5710. 
+Selangor,Gombak,Rawang,2891,Bukit Lagong,28.3,,2023,8,24,2023,8,24,Gazette Plan: PW 3038. 
+Selangor,Ulu Langat,Semenyih,2890,Semenyih,31.23,,2023,8,24,2023,8,24,Gazette Plan: PW 3047. 
+Perak,Hulu Perak,Lenggong,4257,Piah,,31.65,2023,9,14,2023,9,14,Gazette Plan: PW 5442-5465. 
+Terengganu,Marang,Merchang,1757,Merchang,,256.9,2023,10,19,2023,2,15,Gazette Plan: PW 1139. 
+Terengganu,Marang,Merchang,1758,Merchang,,669.9,2023,10,19,2023,2,15,Gazette Plan: PW 1140. 
+Selangor,Klang,Klang,3900,Raja Lumu,38.754,,2023,10,26,2023,10,26,Gazette Plan: PW 3053. 
+Perak,Kampar,Kampar,5185,Bujang Melaka,2.75,,2023,10,26,2023,10,26,Gazette Plan: PW 5331. 
+Pahang,Bentong,Sabai,2076,Lentang Tambahan,0.226,,2023,10,26,2023,10,26,Gazette Plan: PW 5729. 
+Kelantan,Gua Musang,Pulai,2030,Ulu Galas,75.56,,2023,11,9,2018,4,25,Gazette Plan: PW 1887. 
+Pahang,Maran,Chenor,2161,Bukit Gebok Tambahan,34.3,,2023,11,9,2023,11,9,Gazette Plan: PW 5714. 
+Pahang,Bentong,Bentong,2162,Lentang,,0.2619,2023,11,9,2023,11,9,Gazette Plan: PA 264466. 
+Pahang,Maran,Chenor,2163,Jengka,,34.38,2023,11,9,2023,11,9,Gazette Plan: PW 5713. 
+Kelantan,Jeli,Bunga Tanjung,2031,Sokor Taku,,64,2023,11,9,2020,12,2,Gazette Plan: PW 1826. 
+Kelantan,Gua Musang,Relai,2027,Relai,,105,2023,11,9,2021,5,19,Gazette Plan: PW 1833. 
+Kelantan,Gua Musang,Relai,2028,Relai,,107.8,2023,11,9,2021,5,5,Gazette Plan: PW 1845. 
+Kelantan,Tanah Merah,Sokor,2034,Sokor Taku,,210,2023,11,9,2020,2,19,Gazette Plan: PW 1888. 
+Kelantan,Gua Musang,Pulai,2029,Ulu Galas,,238.8,2023,11,9,2018,6,20,Gazette Plan: PW 1845. 
+Kelantan,Tanah Merah,Sokor,2033,Sokor Taku,,251.1,2023,11,9,2020,2,19,Gazette Plan: PW 1874. 
+Kelantan,Tanah Merah,Sokor,2032,Sokor Taku,,439.413,2023,11,9,2020,2,19,Gazette Plan: PW 1828. 
+Kelantan,Tanah Merah,Sokor,2035,Sokor Taku,,956.5,2023,11,9,2020,2,19,Gazette Plan: PW 1870. 
+Pahang,Rompin,Keratong,2257,Bukit Ibam,,8.093,2023,11,23,2023,11,23,Gazette Plan: PW 5561. 
+Pahang,Rompin,Keratong,2256,Bukit Ibam,,27.09,2023,11,23,2023,11,23,Gazette Plan: PW 5560. 
+Selangor,Kuala Selangor,Kuala Selangor,1,Melawati,31.43,,2024,1,4,2024,1,4,Gazette Plan: PW 3055. 
+Selangor,Kuala Selangor,Kuala Selangor,1,Melawati,177.61,,2024,1,4,2024,1,4,Gazette Plan: PW 3056. 
+Pahang,Raub,Gali,2,Bukit Kajang,,284.83,2024,1,4,2024,1,4,Gazette Plan: PW 5747. 
+Johor,Segamat,Chaah,486,Maokil,,131.7,2024,2,1,2024,2,1,Gazette Plan: PW 50241. 
+Johor,Johor Bahru,Sungai Tiram,487,Sungei Johor,,205.8,2024,2,1,2024,2,1,Gazette Plan: PW 3339. 
+Pahang,Pekan,Lepar,342,Pekan Tambahan,728.43,,2024,2,8,2024,2,8,Gazette Plan: PW 5765. 
+Pahang,Pekan,Lepar,343,Lepar Tambahan,,728.43,2024,2,8,2024,2,8,Gazette Plan: PW 5764. 
+Terengganu,Kemaman,Kertih,136,Paya Mengkuang,,270.47,2024,2,15,2018,2,28,Gazette Plan: PW 1145. 
+Kelantan,Gua Musang,Pulai,120,Ulu Galas,,201,2024,2,22,2015,10,28,Gazette Plan: PW 1635. 
+Kelantan,Gua Musang,Ulu Nenggiri,121,Ulu Nenggiri,,554,2024,2,22,2017,3,15,"Gazette Plan: PW 1914, 1912. Converted to Sultanate Land in Gazette #122 (2024)"
+Johor,Batu Pahat,Chaah Bahru,1015,Maokil Tambahan,,512.217,2024,2,29,2024,2,29,Gazette Plan: PW 50269. 
+Johor,Batu Pahat,Chaah Bahru,1016,Maokil Tambahan,,512.217,2024,2,29,2024,2,29,Gazette Plan: PW 50270. This was Water Catchment Forest Reserve
+Perak,Kuala Kangsar,Pulau Kamiri,893,Korbu,,0.948,2024,3,7,2024,3,7,Gazette Plan: PW 5605. 
+Kelantan,Gua Musang,"Renok, Ketil, Relai",297,Gunong Basor,,1998.079,2024,3,7,2023,12,27,"Gazette Plan: PW 1925, 1927, 1923. Converted to Sultanate Land in Gazette #298 (2024)"
+Kelantan,Jeli,"Bunga Tanjung, Lubok Bongor",296,Gunong Basor,,2977.3,2024,3,7,2023,12,27,"Gazette Plan: PW 1929, 1931. Converted to Sultanate Land in Gazette #299 (2024)"
+Perak,Kampar,Kampar,949,Gunung Gajah,119.3,,2024,3,14,2024,3,14,Gazette Plan: PW 5609. 
+Pahang,Kuantan,Sungai Karang,768,Balok,,60.7,2024,3,14,2024,3,14,Gazette Plan: PW 5770. 
+Pahang,Raub,Tras,825,Batu Talam Tambahan,131.45,,2024,3,28,2024,3,28,Gazette Plan: PW 5703. 
+Pahang,Jerantut,Tembeling,824,Gunung Aais Tambahan,809.37,,2024,3,28,2024,3,28,Gazette Plan: PW 5708. 
+Pahang,Raub,Gali,828,Kelau,,15.89,2024,3,28,2024,3,28,Gazette Plan: PW 5704. 
+Pahang,Raub,Gali,827,Kelau,,115.56,2024,3,28,2024,3,28,Gazette Plan: PW 5705. 
+Pahang,Jerantut,Tembeling,826,Tekai,,809.37,2024,3,28,2024,3,28,Gazette Plan: PW 5707. 
+Kelantan,Lojing,Hendrop,613,Sungai Berok,NOT STATED,,2024,4,4,2023,5,7,"Gazette Plan: PA 118321, 118322. "
+Pahang,Pekan,Bebar,881,Nenasi Tambahan,82.05,,2024,4,4,2024,4,4,Gazette Plan: PW 5762. 
+Pahang,Pekan,Bebar,882,Nenasi Tambahan,809.4,,2024,4,4,2024,4,4,"Gazette Plan: PW 5768, 5767. "
+Pahang,Pekan,Bebar,884,Nenasi Tambahan,,80.05,2024,4,4,2024,4,4,Gazette Plan: PW 5763. 
+Pahang,Pekan,Bebar,883,Lepar Tambahan,,809.4,2024,4,4,2024,4,4,Gazette Plan: PW 5766. 
+Pahang,Temerloh,Lebak,1404,Kemasul Tambahan,88,,2024,5,16,2024,5,16,Gazette Plan: PW 5776. 
+Pahang,Temerloh,"Perak, Mentakab",1405,Kemasul,,88,2024,5,16,2024,5,16,"Gazette Plan: PW 5777, 5774, 5775. Corrected by Gazette #1565 (2024) in daerah"
+Johor,Segamat,Chaah,2167,Maokil,,114.9,2024,5,23,2024,5,23,Gazette Plan: PW 50245. 
+Pahang,Pekan,Pulau Manis,1550,Pekan Tambahan,315.36,,2024,6,6,2024,6,6,Gazette Plan: PW 5789. 
+Pahang,Pekan,Penyor,1552,Lepar Tambahan,86.91,,2024,6,6,2024,6,6,Gazette Plan: PW 5790. 
+Pahang,Pekan,Bebar,1549,Pekan Tambahan,457.55,,2024,6,6,2024,6,6,Gazette Plan: PW 5791. 
+Pahang,Pekan,Penyor,1553,Lepar Tambahan,14.47,,2024,6,6,2024,6,6,Gazette Plan: PW 5792. 
+Pahang,Pekan,Penyor,1554,Lepar Tambahan,169.76,,2024,6,6,2024,6,6,Gazette Plan: PW 5793. 
+Pahang,Pekan,Bebar,1551,Pekan Tambahan,257.4,,2024,6,6,2024,6,6,Gazette Plan: PW 5794. 
+Pahang,Pekan,Lepar,1555,Lepar,,1294.99,2024,6,6,2024,6,6,Gazette Plan: PW 5788. 
+Kelantan,Gua Musang,Pulai,1081,Batu Papan,,77.8,2024,6,20,2016,4,27,Gazette Plan: PW 1088. 
+Perak,Hulu Perak,Temelong,2566,Bintang Hijau,,99.76,2024,6,27,2024,6,27,Gazette Plan: PW 5458. 
+Pahang,Rompin,Keratong,1791,Bukit Ibam,,1.21,2024,7,18,2024,7,18,Gazette Plan: PW 5734. 
+Pahang,Pekan,"Pulau Manis, Temai",1868,Pekan Tambahan,732.52,,2024,7,25,2024,7,25,Gazette Plan: PW 5800. 
+Pahang,Raub,Tras,1869,Batu Talam Tambahan,194.49,,2024,7,25,2024,7,25,Gazette Plan: PW 5803. 
+Pahang,Raub,Gali,1875,Klau,,58.6,2024,7,25,2024,7,25,Gazette Plan: PW 5807. 
+Pahang,Raub,Gali,1874,Klau,,68.76,2024,7,25,2024,7,25,Gazette Plan: PW 5804. 
+Pahang,Raub,Gali,1872,Klau,,81.75,2024,7,25,2024,7,25,Gazette Plan: PW 5802. 
+Pahang,Raub,Gali,1877,Klau,,111.86,2024,7,25,2024,7,25,Gazette Plan: PW  5805. 
+Pahang,Raub,Gali,1873,Klau,,118.89,2024,7,25,2024,7,25,Gazette Plan: PW 5799. 
+Pahang,Raub,Gali,1870,Bukit Kajang,,160.53,2024,7,25,2024,7,25,Gazette Plan: PW 5798. 
+Pahang,Raub,Gali,1876,Klau,,161.13,2024,7,25,2024,7,25,Gazette Plan: PW 5801. 
+Pahang,Raub,Gali,1871,Bukit Kajang,,161.13,2024,7,25,2024,7,25,Gazette Plan: PW 5806. 
+Malacca,Jasin,Merlimau,524,Paya Laut Merlimau Tambahan,,12.51,2024,8,1,2024,8,1,Gazette Plan: PA 28653. 
+Pahang,Lipis,Hulu Jelai,1964,Ulu Jelai Tambahan,202.8,,2024,8,8,2024,8,8,Gazette Plan: PA 143744. 
+Pahang,Lipis,Hulu Jelai,1963,Ulu Jelai Tambahan,197.5,,2024,8,8,2024,8,8,Gazette Plan: PA 144277. Reserve renamed from Hulu Jelai Tambahan to Ulu Jelai Tambahan (more recent spelling)
+Pahang,Kuantan,Ulu Lepar,1966,Berkelah,,188.2,2024,8,8,2024,8,8,Gazette Plan: PA 300950. 
+Pahang,Kuantan,Ulu Lepar,1967,Berkelah,,197.5,2024,8,8,2024,8,8,Gazette Plan: PA 301309. 
+Pahang,Raub,Semantan Ulu,2337,Batu Talam Tambahan,133.55,,2024,9,5,2024,9,5,Gazette Plan: PW 5787. 
+Negeri Sembilan,Jelebu,Ulu Klawang,706,Berembun,,0.0036,2024,9,5,2024,9,5,Gazette Plan: PW 5951. 
+Johor,Batu Pahat,Chaah Bahru,4138,Maokil Tambahan,,10.17,2024,9,5,2024,9,5,Gazette Plan: PW 20542. This was Water Catchment Forest Reserve
+Johor,Batu Pahat,Chaah Bahru,4138,Maokil,,10.17,2024,9,5,2024,9,5,Gazette Plan: PW 50243. 
+Pahang,Raub,Semantan Ulu,2338,Batu Talam,,133.55,2024,9,5,2024,9,5,Gazette Plan: PW 5785. 
+Pahang,Rompin,Pontian,2499,Lesong,,3.997,2024,9,26,2024,9,26,Gazette Plan: PW 5518. 
+Pahang,NOT STATED,NOT STATED,2555,Ulu Jelai Tambahan,25.56,,2024,10,3,2024,10,3,Gazette Plan: PW 5795. 
+Pahang,NOT STATED,NOT STATED,2556,Ulu Jelai Tambahan,76.24,,2024,10,3,2024,10,3,Gazette Plan: PW 5809. 
+Pahang,Lipis,Batu Yon,2557,Ulu Jelai,,101.3,2024,10,3,2024,10,3,Gazette Plan: PA 266852. 
+Perlis,Titi Tinggi,Titi Tinggi,129,Bukit Tok Seri,11.43,,2024,11,7,2024,11,7,Gazette Plan: PW 1537. Later classified as soil protection and amenity forest in Gazette #133 (2024)
+Perlis,Titi Tinggi,Titi Tinggi,130,Bukit Chabang,66.108,,2024,11,7,2024,11,7,Gazette Plan: PW 1538. Later classified as soil protection and amenity forest in Gazette #134 (2024)
+Perlis,Titi Tinggi,Titi Tinggi,131,Bukit Manek,118.16,,2024,11,7,2024,11,7,Gazette Plan: PW 1539. Later classified as soil protection and amenity forest in Gazette #135 (2024)
+Perlis,Titi Tinggi,Titi Tinggi,132,Bukit Guar Sami,74.41,,2024,11,7,2024,11,7,Gazette Plan: PW 1540. Later classified as soil protection and amenity forest in Gazette #136 (2024)
+Kelantan,Lojing,NOT STATED,2519,Lojing,273.692,,2024,11,14,2020,11,18,"Gazette Plan: PW 1737. PT 270, 271"
+Pahang,Pekan,Bebar,3004,Resak Tambahan,380.51,,2024,11,14,2024,11,14,Gazette Plan: PW 5811. 
+Pahang,Rompin,Rompin,3001,Lesung Tambahan,60.76,,2024,11,14,2024,11,14,Gazette Plan: PW 5812. 
+Pahang,Rompin,Rompin,3002,Lesung Tambahan,50.58,,2024,11,14,2024,11,14,Gazette Plan: PW 5813. 
+Pahang,Rompin,Rompin,3003,Lesung Tambahan,15.26,,2024,11,14,2024,11,14,Gazette Plan: PW 5814. 
+Kelantan,Machang,"Pemanok, Ulu Sat, Tengah, Raja",2522,Ulu Sat,,110.7,2024,11,14,2019,7,31,Gazette Plan: PW 1730. Two daerah mentioned for total excision of 110.7ha 
+Pahang,Rompin,Keratong,3005,Bukit Ibam,,126.2,2024,11,14,2024,11,14,Gazette Plan: PA 264479. 
+Kelantan,Jeli,Belimbing,2520,Gunong Basor,,248.938,2024,11,14,2024,5,15,Gazette Plan: PW 387. 
+Pahang,Kuantan,Ulu Lepar,3006,Berkelah,,380.5,2024,11,14,2024,11,14,Gazette Plan: PA 300946. 
+Kelantan,Gua Musang,Ulu Nenggiri,2521,Gunong Stong,,444,2024,11,14,2024,5,15,Gazette Plan: PW 1917. PT 8119
+Perak,Manjung,Lekir,5484,Lekir,105.72,,2024,11,21,2024,11,21,"Gazette Plan: PW 5700, 5743, 5744. "
+Perak,Batang Padang,Bidor,5485,Bukit Tapah,,18,2024,11,21,2024,11,21,Gazette Plan: PW 5740. 
+Pahang,Raub,Dong,3178,Klau Tambahan,94.95,,2024,12,5,2024,12,5,Gazette Plan: PW 5782. 
+Pahang,Raub,Gali,3179,Gunung Benum Tambahan,191.28,,2024,12,5,2024,12,5,Gazette Plan: PW 5786. 
+Pahang,Raub,Gali,3180,Klau Tambahan,,254.95,2024,12,5,2024,12,5,Gazette Plan: PW 5781. 
+Perak,Hulu Perak,Kenering,6089,Papulut,,2.956,2024,12,26,2024,12,26,Gazette Plan: PW 4062. 
+Perak,Hulu Perak,Kenering,6088,Papulut,,399,2024,12,26,2024,12,26,Gazette Plan: PW 5365. 
+Pulau Pinang,Barat Daya,1,90,Sungai Pinang Plot 1,3.85,,2025,1,16,2025,1,16,
+Pulau Pinang,Barat Daya,D,90,Sungai Rusa Plot 2,5.27,,2025,1,16,2025,1,16,
+Pulau Pinang,Barat Daya,1,90,Tanjung Gemuruh,44.24,,2025,1,16,2025,1,16,
+Pulau Pinang,Barat Daya,1,90,Sungai Pinang Plot 2,195.94,,2025,1,16,2025,1,16,
+Pulau Pinang,Barat Daya,"B, C",90,Sungai Rusa Plot 3,196.66,,2025,1,16,2025,1,16,
+Perak,Kuala Kangsar,Pulau Kamiri,206,Piah,,60.3,2025,1,16,2025,1,16,Gazette Plan: PW 5827. 
+Perak,"Larut, Matang dan Selama",Hulu Ijok,205,Ijok,,364.4,2025,1,16,2025,1,16,"Gazette Plan: PW 5374. Daerah changed to Larut, Matang dan Selama (more recent designation)"
+Pahang,Jerantut,Tembeling,171,Yong,,2023.6,2025,1,30,2025,1,30,Gazette Plan: PW 5207. Excision of 4047.2ha in two reserves - Yong and Yong Tambahan. I assign half to each reserve.
+Pahang,Jerantut,Tembeling,171,Yong Tambahan,,2023.6,2025,1,30,2025,1,30,Gazette Plan: PW 5207. Excision of 4047.2ha in two reserves - Yong and Yong Tambahan. I assign half to each reserve.
+Negeri Sembilan,Jelebu,Pertang,75,Triang,,0.0353,2025,2,6,2025,2,6,Gazette Plan: PW 5810. 
+Johor,Batu Pahat,Chaah Bahru,704,Maokil Tambahan,,6.593,2025,2,13,2025,2,13,Gazette Plan: PW 50309. 
+Johor,Batu Pahat,Chaah Bahru,701,Maokil Tambahan,,6.593,2025,2,13,2025,2,13,Gazette Plan: PW 50310. This was Water Catchment Forest Reserve
+Johor,Segamat,Labis,700,Labis,,382.804,2025,2,13,2025,2,13,Gazette Plan: PW 50278. This was Water Catchment Forest Reserve
+Johor,Segamat,Labis,702,Labis,,382.804,2025,2,13,2025,2,13,Gazette Plan: PW 50279. 
+Johor,Segamat,Bekok,703,Labis,,1480.27,2025,2,13,2025,2,13,Gazette Plan: PW 50289. 
+Pahang,Cameron Highlands,Ulu Tenom,351,Mensum,4821.49,,2025,2,27,2025,2,27,Gazette Plan: PW 5733. 
+Johor,Johor Bahru,Jelutong,1053,Sungei Pulai,1.237,,2025,3,6,2025,3,6,Gazette Plan: PA 2562884. 
+Johor,Kota Tinggi,Ulu Sungei Sedili Besar,1051,Ulu Sedili Tambahan,390.348,,2025,3,6,2025,3,6,Gazette Plan: PW 50280. 
+Johor,Kota Tinggi,Ulu Sungei Sedili Besar,1052,Ulu Sedili Tambahan,675.9,,2025,3,6,2025,3,6,Gazette Plan: PW 50281. 
+Terengganu,Hulu Terengganu,Hulu Terengganu,306,Petuang,1156,,2025,3,20,2025,3,20,Gazette Plan: PW 1142. 
+Terengganu,Hulu Terengganu,Hulu Terengganu,307,Petuang,145,,2025,3,20,2025,3,20,Gazette Plan: PW 1143. 
+Terengganu,Hulu Terengganu,Hulu Terengganu,308,Petuang,554,,2025,3,20,2025,3,20,Gazette Plan: PW 1144. 
+Negeri Sembilan,Jelebu,Kenaboi,242,Kenaboi,,40.47,2025,4,3,2025,4,3,Gazette Plan: PW 5980. 
+Kelantan,Gua Musang,Pulai,874,Ulu Galas,,64.96,2025,4,17,2020,9,23,Gazette Plan: PW 1879. 
+Kelantan,Gua Musang,Pulai,876,Batu Papan,,120,2025,4,17,2020,8,19,Gazette Plan: PW 1903. 
+Kelantan,Gua Musang,Ulu Nenggiri,875,Gunong Stong,,200,2025,4,17,2022,4,6,Gazette Plan: PW 1907. 
+Pahang,Lipis,Batu Yon,829,Tanum Tambahan,24.73,,2025,5,1,2025,5,1,Gazette Plan: PW 5744. 
+Pahang,Lipis,Batu Yon,829,Ulu Jelai Tambahan,86.11,,2025,5,1,2025,5,1,Gazette Plan: PW 5744. 
+Perak,Muallim,Slim,2847,Ulu Slim,559.69,,2025,6,5,2025,6,5,"Gazette Plan: PW 5875, 5876, 5877. "
+Perak,Manjung,Pengkalan Baharu,2848,Segari Melintang,,12.89,2025,6,5,2025,6,5,Gazette Plan: PW 5872. 
+Pahang,Lipis,Ulu Jelai,1086,Ulu Jelai,,297.23,2025,6,5,2025,6,5,Gazette Plan: PW 5823. 
+Pahang,Bentong,Sabai,1155,Lentang Tambahan,94.2,,2025,6,19,2025,6,19,Gazette Plan: PW 5843. 
+Pahang,Bentong,Bentong,1156,Bukit Tinggi,94.2,,2025,6,19,2025,6,19,Gazette Plan: PW 5844. 
+Perak,Muallim,Slim,3343,Ulu Slim,286.67,,2025,7,3,2025,7,3,Gazette Plan: PW 5920. 
+Perak,Kerian,Kuala Kurau,3473,Bakau Kuala Gula,21.06,,2025,7,10,2025,7,10,"Gazette Plan: PW 5873, 5874. "
+Kelantan,Gua Musang,Ulu Nenggiri,1811,Perias,,184.8,2025,7,10,2017,12,20,Gazette Plan: PW 1953. 
+Perak,Kerian,Kuala Kurau,3696,Bakau Kuala Gula,19.824,,2025,7,17,2025,7,17,"Gazette Plan: PW 5925, 5926. "
+Pahang,Lipis,Batu Yon,1680,Ulu Jelai Tambahan,55.35,,2025,8,14,2025,8,14,Gazette Plan: PW 5825. Stated sub-district Jelai
+Pahang,Jerantut,Kuala Tembeling,1681,Som,,50.12,2025,8,14,2025,8,14,Gazette Plan: PA 305721. 
+Pahang,Pekan,Lepar,1775,Lepar Tambahan,19.08,,2025,8,21,2025,8,21,Gazette Plan: PW 5847. 
+Pahang,Rompin,Keratong,1776,Bukit Ibam,,19.08,2025,8,21,2025,8,21,Gazette Plan: PA 304697. Stated sub-district Muadzam Shah
+Johor,Kota Tinggi,Ulu Sungei Sedili Besar,4378,Panti,,15.3,2025,10,16,2025,10,16,Gazette Plan: PW 50271. 
+Johor,Kluang,Kluang,4380,Kluang,,153.2,2025,10,16,2025,10,16,Gazette Plan: PA 234207. 
+Johor,Mersing,Lenggor,4379,Mersing Tambahan,,204.314,2025,10,16,2025,10,16,Gazette Plan: PW 50277. 
+Perlis,Titi Tinggi,Titi Tinggi,200,Bukit Anak Gajah,961.1,,2025,10,30,2025,10,30,Gazette Plan: PW 1568. 
+Perlis,Titi Tinggi,Titi Tinggi,201,Mata Ayer,,17.54,2025,10,30,2025,10,30,Gazette Plan: PW 1567. 
+Kelantan,Gua Musang,Relai,2807,Relai,,111.6171,2025,11,6,2022,5,11,"Gazette Plan: PW 1808, 1812, 1814. "
+Kelantan,Gua Musang,Relai,2808,Lebir,,2576.95,2025,11,6,2022,5,11,"Gazette Plan: PW 1808, 1809, 1816, 1810, 1811, 1812, 1821, 1822, 1813, 1815, 1817, 1819, 1820, 1823, 1824, . "
+Perak,Hulu Perak,Kenering,6415,Papulut,,40.46,2025,11,20,2025,11,20,Gazette Plan: PW 5948. 
+Perak,Kerian,Kuala Kurau,6505,Bakau Kuala Gula,310.7,,2025,11,27,2025,11,27,Gazette Plan: PW 5945. 
+Perak,"Larut, Matang, dan Selama",Jebong,6506,Kelip-Kelip,3.116,,2025,11,27,2025,11,27,"Gazette Plan: PW 5961. Daerah changed to Larut, Matang dan Selama (more recent designation)"
+Perak,Kerian,Selinsing,6506,Kelip-Kelip,57.96,,2025,11,27,2025,11,27,Gazette Plan: PW 5962. 
+Perak,Manjung,Lumut,6507,Teluk Meroh,,20.23,2025,11,27,2025,11,27,Gazette Plan: PW 5988. 
+Pahang,Jerantut,Kuala Tembeling,2704,Som Tambahan,80.96,,2025,12,25,2025,12,25,Gazette Plan: PW 5846. 
+Pahang,Jerantut,Kuala Tembeling,2705,Som,,80.94,2025,12,25,2025,12,25,Gazette Plan: PA 305422. 
+Johor,Johor Bahru,Pulai,219,Sungai Kemudi,,98.02,2026,1,15,2026,1,15,Gazette Plan: PA 208405. 
+Johor,Johor Bahru,Pulai,219,Sungai Bahan,,76.44,2026,1,15,2026,1,15,Gazette Plan: PA 150792. 
+Melaka,Jasin,Merlimau,3,Paya Laut Merlimau Pantai,12.51,,2026,1,1,2026,1,1,Gazette Plan: PW 1252. 
+Pahang,Kuantan,Kuala Kuantan,34,Galing,,10.42,2026,1,8,2026,1,8,Gazette Plan: PW 5873. First mention of 'Galing'. Previous gazettes mentioned 'Bukit Galing' and 'Bukit Galing Tambahan'.
+Pahang,Bentong,Sabai,75,Lentang Tambahan,100.5,,2026,1,22,2026,1,22,Gazette Plan: PW 5880. 
+Pahang,Rompin,Keratong,76,Lesong,,100,2026,1,22,2026,1,22,Gazette Plan: PA 309901. 
+Pahang,Raub,Tas,187,Ulu Teranum Tambahan,20.5,,2026,2,12,2026,2,12,Gazette Plan: PW 5881. 
+Pahang,Jelai,Hulu Jelai,188,Ulu Jelai Tambahan,200,,2026,2,12,2026,2,12,Gazette Plan: PA 143763. 
+Pahang,Jelai,Ulu Jelai,189,Ulu Jelai,,220,2026,2,12,1900,2,12,Gazette Plan: PA 294184. 
